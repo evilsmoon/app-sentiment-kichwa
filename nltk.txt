@@ -1,4 +1,3 @@
 stopwords
-PorterStemmer
 ToktokTokenizer
 FreqDist
