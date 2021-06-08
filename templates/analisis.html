@@ -20,23 +20,32 @@
       <section class="container">
         <figure class="highcharts-figure">
             <div id="container"></div>
-            <p class="highcharts-description">
+            <!-- <p class="highcharts-description">
                 Chart with buttons to modify options, showing how options can be changed
                 on the fly. This flexibility allows for more dynamic charts.
-            </p>
+            </p> -->
         </figure>
         
         <figure class="highcharts-figure">
             <div id="container_2"></div>
-            <p class="highcharts-description">
+            <!-- <p class="highcharts-description">
               Chart showing a combination of a column and a line chart, using multiple
               y-axes. Using multiple axes allows for data within different ranges to
               be visualized together.
-            </p>
+            </p> -->
           </figure>
-
+          <section>
+            <div class="alert alert-warning" role="alert">
+              <h1>  {{val_por}}  <span class="badge bg-success">{{por}}</span></h1>
+            </div>
+          </section>
+          <section class='container'>
+            <a  href="{{url_for('index')}}" class='btn btn-danger'>Back</a>
+          </section>
+        </section>
       {% include "footer.html" %}
     </div>
+
   </body>
   <script
     type="text/javascript"
@@ -52,10 +61,7 @@
   
     const chart = Highcharts.chart('container', {
       title: {
-        text: 'chart'
-      },
-      subtitle: {
-        text: 'Plain'
+        text: 'Riqueza Lexica'
       },
       xAxis: {
         categories: [{% for item in data_json %}
@@ -77,13 +83,10 @@ Highcharts.chart('container_2', {
     zoomType: 'xy'
   },
   title: {
-    text: 'Average Monthly Temperature and Rainfall in Tokyo'
-  },
-  subtitle: {
-    text: 'Source: WorldClimate.com'
+    text: 'Porcentaje'
   },
   xAxis: [{
-    categories: [{% for item in label %}
+    categories: [{% for item in data_names %}
          "{{item}}",
         {% endfor %}],
     crosshair: true
@@ -135,7 +138,7 @@ Highcharts.chart('container_2', {
     name: 'Words',
     type: 'column',
     yAxis: 1,
-    data: [{% for item in numero %}
+    data: [{% for item in data_values2 %}
         {{item}},
         {% endfor %}],
     tooltip: {
@@ -145,7 +148,7 @@ Highcharts.chart('container_2', {
   }, {
     name: 'Porcentaje',
     type: 'spline',
-    data: [{% for item in numero %}
+    data: [{% for item in data_values %}
         {{item}},
         {% endfor %}],
     tooltip: {

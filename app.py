@@ -1,6 +1,7 @@
 from flask import Flask,render_template,request, jsonify,make_response,redirect
 import re
 import pandas as pd
+import numpy as np
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
@@ -59,9 +60,18 @@ def compara(lista,dataset):
   w=0
   for q in data1:
     w=q+w
-  print('Promedio de palabras ',w/len(data1))
 
-  return data1,data2
+  data_pro = w/len(data1)  
+  data_n_p =''
+  print('Promedio de palabras ',data_pro)
+  if data_pro <=0.43:
+    data_n_p += 'Negativo'
+  elif data_pro >=0.7:
+    data_n_p += 'Positivo'
+  elif data_pro >0.43 and data_pro<0.7:
+    data_n_p += 'Neutro'
+
+  return data1,data2,data_pro,data_n_p
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -70,26 +80,51 @@ def index():
 def analisis_post():
     if request.method == 'POST':
         text = request.form['inputText']
-        fdist = FreqDist(remove_stopwords(clean_data(text).split())).most_common()
-        data_F_1 = []
-        data_F_2 = []
-        for i in fdist:
-          data_F_1.append(i[0])
-        for i in fdist:
-          data_F_2.append(i[1])
-        # dic = list(data_F_1)
-        # di2 = list(data_F_2)
-        data_json  = list(data_F_1)
-        data_num =   list(data_F_2) 
-        numero , label =compara(data_F_1,dataset)
-        print(label)
-        print(numero)
-        
+        if text:
+          fdist = FreqDist(remove_stopwords(clean_data(text).split())).most_common()
+          data_F_1 = []
+          data_F_2 = []
+          for i in fdist:
+            data_F_1.append(i[0])
+          for i in fdist:
+            data_F_2.append(i[1])
+
+          data_json  = list(data_F_1)
+          data_num   = list(data_F_2) 
+          numero , label,por,val_por =compara(remove_stopwords(clean_data(text).split()),dataset)
+          list_predict = list(zip(label,numero))
+          data = []
+          for i in list_predict:
+            if i not in data:
+              data.append(i)
+          print(data)
+          fdist_data = FreqDist(list_predict).most_common()
+          data_names = []
+          data_values = []
+          data_values2 = []
+          for i in fdist_data:
+            for j in  data:
+              if j == i[0]:
+                data_names.append(j[0])
+                data_values.append(j[1])
+                data_values2.append(j[1]*i[1])
+
+          # data_final = list(zip(data_names,data_values,data_values2))
+          return render_template('analisis.html', 
+                                  data_num=data_num,
+                                  data_json=data_json,
+                                  data_names=data_names ,
+                                  data_values=data_values , 
+                                  data_values2=data_values2,
+                                  por = por ,
+                                  val_por= val_por
+                                  )
+        else:
+          return render_template('index.html')
 
 
-    return render_template('analisis.html', data_num=data_num,data_json=data_json,label=label,numero=numero)
 
+if __name__ == '__main__':
+  app.run(host='0.0.0.0',port='80')
 
-
-
-app.run(debug=True)
+# app.run(debug=True)
