@@ -1,0 +1,2760 @@
+ID,Kichwa,Spanish,sentimientos
+0,abya yala,continente americano ,0.698709377
+1,abyalami chawchuri rikurimanta,racismo en américa ,0.347136649
+2,allpapi tiyashkakuna ,accidentes geograficos,0.713207115
+3,wayku ,acequia,0.541333261
+4,achachilasa- ñawpa kawsakkuna kitsil,antepasados ,0.945176617
+5,achik,claro- luz ,0.54774029
+6,achik mama,madrina ,0.362813601
+7,achik wawa,ahijado- ahijada ,0.988226742
+8,achik yaya / achik tayta,padrino ,0.223548446
+9,achiksamaytu,ozono ,0.040049366
+10,achikshumaytu,ozono ,0.040049366
+11,achikyachina yuyaymanta,aclarar ,0.541333261
+12,achikyana punchamanta,aclarar ,0.541333261
+13,achka,mucho ,0.642949541
+14,achkak,suficiente ,0.605496944
+15,ahak,ofensor ,0.541333261
+16,ahay,ofender- ofensa ,0.159321224
+17,akapi,cebada ,0.21697253
+18,akcha,pelo- cabello ,0.224713387
+19,akcha kara,cuero cabelludo ,0.089038932
+20,akllashka chani,muestra estadística ,0.816965738
+21,akllawarmi,virgen ,0.719534206
+22,akllay,escoger ,0.672228144
+23,akna,ceremonia ,0.859912774
+24,akukutinchik,múltiplo del gramo ,0.297647677
+25,akuna,masticar ,0.541333261
+26,akuy,vil ,0.010256164
+27,alakay,alcanzar ,0.541333261
+28,alapana,pegar- adherir ,0.541333261
+29,alaparina,apegarse- aferrarse ,0.094439857
+30,allana,excavar ,0.541333261
+31,allawka,derecha mano ,0.280931326
+32,allawka- alliman,derecho ,0.456029327
+33,alli,bien- bueno ,0.881889209
+34,alli maki,mano derecha ,0.280931326
+35,allichi,adorno ,0.297867711
+36,allichina,arreglar ,0.145430943
+37,allichiy,arreglar ,0.145430943
+38,allikachina,gustar ,0.740599575
+39,allikay,salud- bneficio ,0.541333261
+40,allikillkay,ortografía ,0.008584588
+41,allikillkay w,ortografía ,0.008584588
+42,allimanta,despacio- de buena manera ,0.770928819
+43,allimikuy,nutrición ,0.084837154
+44,allin,magnifico ,0.949810988
+45,alliyana,sanar- curar ,0.290568336
+46,alliyay,recuperar la salud ,0.172651093
+47,allku,perro ,0.56903703
+48,allpa,tierra- suelo ,0.632890744
+49,allpa kara,corteza terrestre ,0.166030471
+50,allpa khiwa,hierba rastrera ,0.041834623
+51,allpachawpipacha muyuy,línea ecuatorial ,0.294496503
+52,allpachinkari,erosión ,0.98603265
+53,allpachinkariy,erosión ,0.98603265
+54,allpachukchuy,temblor ,0.261556293
+55,allpakamay saywachi,geografía política ,0.467856264
+56,allpakutik,movimiento de nutación ,0.823046395
+57,allpamama chaska,planeta tierra ,0.646795313
+58,allpamamakamay,geografía ,0.635897897
+59,allpamamapi rikuchi,ubicación geográfica ,0.541333261
+60,allpampay,superficie de la tierra ,0.794226413
+61,allpamuyuy,movimiento de traslación ,0.823046395
+62,allpanpa,superficial ,0.257202751
+63,allpapacha,continente ,0.784183043
+64,allpapachakak,natural ,0.71501595
+65,allpapachapampa,superficie de la tierra ,0.794226413
+66,allpapachapi tiyak chalwakuna,recursos ictiológicos ,0.238883569
+67,allpapachapi tiyak chukikuna,recursos mineros ,0.238883569
+68,allpapachapi tiyak yakukuna,recursos hidrográfico ,0.238883569
+69,allpapachapi tiyak yurakuna,recursos forestales ,0.103773841
+70,allpapachapi tiyakuna,recursos naturales ,0.536881819
+71,allpapiruruy,movimiento de rotación ,0.438241451
+72,allparantikillka,escritura ,0.541333261
+73,allpashuyu,mapa ,0.764209378
+74,allpashuyukamay,cartografía ,0.917679475
+75,allpawaklliyay,erosión ,0.98603265
+76,allpawira,petróleo ,0.107920507
+77,allpawira- wisisi,petróleo ,0.107920507
+78,allpawku,subterráneo ,0.866024177
+79,allpañan,vía terrestre ,0.170698771
+80,allpañutuchina,desterronar ,0.541333261
+81,almut,almud 25 lib ,0.215579638
+82,ama llulla,honestidad ,0.541333261
+83,amapuna,traer ,0.341847159
+84,amaru,serpiente ,0.37710603
+85,amawta,científico ,0.541333261
+86,amawta yachay,contenido científico ,0.536460273
+87,amawtay,ciencia ,0.737772734
+88,amañana,adaptar ,0.541333261
+89,amañana- yacharina,adaptar ,0.541333261
+90,amañarina,adaptarse ,0.711098194
+91,amañariy,adaptación ,0.751804197
+92,amita,sopa ,0.609729301
+93,ampana,bostezar ,0.019686787
+94,amsa,opaco ,0.372368291
+95,amsayana,ocultar el sol ,0.509637373
+96,amukay,suavidad ,0.541333261
+97,amulliy,poner algo en la boca ,0.734844752
+98,ana,lunar ,0.713030882
+99,anaku,falda ,0.417266464
+100,anchachilasa- ñawpa kawsakkuna,antepasados ,0.945176617
+101,anchakuyay,pasión de vehemencia amorosa ,0.196129245
+102,anchallpa,globo terráqueo ,0.405152107
+103,anchallpakamay,geopolítica ,0.541333261
+104,anchayupay,importancia ,0.670630386
+105,anchuchina,quitar- sustraer ,0.046233151
+106,anchuchiy,quitar ,0.138778922
+107,anchuna,irse de casa- moverse de sitio ,0.796793001
+108,anchuriy,retirarse ,0.34169244
+109,anchuy,retirada ,0.541333261
+110,anka,gallinazo ,0.541333261
+111,ankana,volar ,0.28848034
+112,ankas,azul ,0.541333261
+113,ankas tapa wara,blue jean ,0.421667918
+114,ankay,ceremonial ,0.896885114
+115,ankichik,radio emisor ,0.017619987
+116,ankiyachik,radio receptor ,0.126861642
+117,anku,vena- arteria ,0.976377221
+118,ankuyana,marchitarse envecer ,0.93017211
+119,anta,metal ,0.541333261
+120,antaki,plomo ,0.251684948
+121,antakullki,monedas ,0.693473198
+122,antanikik,computadora ,0.541333261
+123,antanikik chaski,correo electrónico ,0.087084095
+124,antapachachik,reloj mecánico ,0.071398033
+125,antawa,coche- carro ,0.526284448
+126,antayari,radio ,0.44105228
+127,antayay,metalúrgico ,0.066453881
+128,antisuyu,región amazónica ,0.204737935
+129,apana,llevar ,0.696975801
+130,apanakuy,llevarse - relacionarse ,0.733098063
+131,apankara,cáncerenfermedad ,0.541333261
+132,apankura,cáncer signo ,0.238023561
+133,aparikanta,medios de transporte ,0.61786906
+134,aparina,cargar ,0.22711243
+135,apariykancha,medios de transporte ,0.61786906
+136,apay,guiar- conducir ,0.173395623
+137,api,colada- mazamorra ,0.043959472
+138,apuk,ancestros ,0.825573139
+139,apuk,líder-autoridad ,0.541333261
+140,apukkuna,autoridades ,0.120029112
+141,apukkuna tantaripacha,período de integración ,0.527903042
+142,apukkuna tantatripacha,período de integración ,0.527903042
+143,apuktukushka,emperador ,0.67510728
+144,apunchik,dios ,0.399799404
+145,apunchikamay,religión ,0.747574752
+146,apunchikwasi,iglesia ,0.938298155
+147,apuskachak,soberbio ,0.679200479
+148,apyayala,continente americano ,0.698709377
+149,apyayalapi chawchuri rikurimanta,racismo en américa ,0.347136649
+150,apyu,caballo ,0.541333261
+151,arawik,poeta ,0.96510586
+152, thiyu / illul ,arena,0.655927241
+153,arina,estrenar ,0.640818692
+154,arinichina,convencer ,0.16108947
+155,arinina,acceder- consentir ,0.541333261
+156,arininakuy,acuerdo- tratado ,0.300161848
+157,arininakuy,acuerdos- tratados ,0.310048062
+158,arma,ayñi ,0.012653958
+159,armana,bañar ,0.223200664
+160,ashanka,canasto ,0.541333261
+161,ashankayrumpa,básquet ,0.742371861
+162,ashnana,oler ,0.599056249
+163,ashtarina,mobilizarse- transportarse- moverse ,0.812686615
+164,asichik,hazmereír ,0.541333261
+165,asichisiki,chistoso ,0.193208294
+166,asina,reír ,0.536873516
+167,asinayay,chistoso- que causa risa ,0.183077115
+168,asipayak,burlón ,0.01928831
+169,aspi,guión ,0.613665894
+170,aspina,rascar- subrayar- ,0.541333261
+171,atallpa,gallina ,0.662156239
+172,atam,parásito- ,0.541333261
+173,ataw,jóvez ,0.541333261
+174,atawchay,fortuna ,0.481240517
+175,atawchayuk,afortunado ,0.414573823
+176,atina,vencer ,0.214780181
+177,atipay,conquista ,0.70914774
+178,atiy,poder ,0.738374629
+179,atsiyana,estornudar ,0.008954556
+180,atuk,lobo ,0.371609721
+181,atukamay,industria ,0.393515083
+182,atukay,industria ,0.393515083
+183,atukayashka pukuy,producción industrial ,0.360602368
+184,atyak,babosa ,0.099191511
+185,awaki,lunes ,0.421050195
+186,awaki puncha,lunes ,0.421050195
+187,awana,tejer ,0.541333261
+188,awayllamkay,obraje ,0.541333261
+189,awika,variedad ,0.968124331
+190,awka,militar- soldado ,0.564890343
+191,awkakancha,ejército ,0.311671759
+192,awkarik puncha,martes ,0.482670733
+193,awkaruna,pagano ,0.541333261
+194,awkawasi,cuartel ,0.541333261
+195,awki,principe- noble ,0.541333261
+196,aya uma,personaje mitologico que lidera el inti raymi- materializacion de las energias de la pacha mama ,0.209238295
+197,aycha,carne ,0.711635724
+198,aycha / ukku,carne- cuerpo ,0.490605969
+199,ayllu,familia ,0.838696816
+200,ayllu chariy,poseer familia ,0.865305672
+201,ayllu shuti,apellidos antroponimio ,0.601518711
+202,ayllullanikipushak,monarquía ,0.190605207
+203,ayllumallki,arbol genealógico ,0.620856717
+204,ayllunikiyashka,grados de afinidad ,0.800779061
+205,aymuray,mayo ,0.790854795
+206,aymuray killa,mayo ,0.790854795
+207,aynikuy,participación  ,0.6814308
+208,aynina,convivir ,0.688651016
+209,ayninakuy,participativa ,0.799926824
+210,ayriwa,abril ,0.288698381
+211,ayriwa killa,abril ,0.288698381
+212,aysana,halar- cosechar ,0.765568062
+213,aysana,arrastrar ,0.269796659
+214,ayñi,arma ,0.541333261
+215,añaki,bacteria ,0.00653504
+216,añanku,hormiga ,0.385276872
+217,añas,zorro ,0.207913774
+218,añaw,virus ,0.080635638
+219,chachina,masticar ,0.541333261
+220,chakana,cruzar ,0.891332836
+221,chakariy- mushukyay,cruzamiento ,0.541333261
+222,chakata tullu,clavícula ,0.828569244
+223,chakcha,alabanza ,0.541333261
+224,chaki,pie ,0.800564355
+225,chaki ruka,dedo del pie ,0.316675123
+226,chaki sillu,uña del dedo del pie ,0.316675123
+227,chaki uku,planta del pie ,0.775167439
+228,chaki washa,talon ,0.212779972
+229,chakichina,secar ,0.425095544
+230,chakina,secar ,0.425095544
+231,chakishka,seco ,0.425095544
+232,chakishkapacha,sequía ,0.604617499
+233,chakllamanyachi,paralelogramo ,0.541333261
+234,chaklli,quìmico ,0.541333261
+235,chakllisinchi,química ,0.596583246
+236,chakra,sementera ,0.070315105
+237,chakrakamay,agricultura- agrícola ,0.541333261
+238,chakrakamay- allpa llankay,agricultura ,0.732793608
+239,chakrana,cultivar ,0.770000958
+240,chakrawiwakamay,agropecuaria ,0.541333261
+241,chakru,mixto o combinado ,0.910532848
+242,chakruy,composición ,0.778191175
+243,challay,rito ,0.853122542
+244,challay- wilkay- hawkay,rito ,0.853122542
+245,challwa,pez ,0.436923919
+246,challwa kapina,pescar ,0.541333261
+247,challwakamay,pesca- pesquera- ictiología ,0.898922342
+248,chani,valor ,0.682379364
+249,chani – kuska,lugar turístico ,0.961415759
+250,chanichina,valorar ,0.568801645
+251,chanikuna,datos ,0.179067274
+252,chanina,valorar ,0.568801645
+253,chaniyay,valencia ,0.541333261
+254,chaniyuk,caro- de valor en dinero ,0.273786637
+255,chanka,pierna ,0.066837358
+256,chantasu,llama ,0.216948499
+257,chapak,policía ,0.242874132
+258,chapak kamaypaktachi,intendencia de policía ,0.189023652
+259,chapak kamaypaktachi puhak,comando provincia de policía ,0.430696514
+260,chapak kamaypaktachi puhask,comando provincia de policía ,0.430696514
+261,chapana,vigilar ,0.541333261
+262,chapuna,mezclar ,0.599680559
+263,chapuri,composición  ,0.778191175
+264,chapuriy,combinación ,0.828759303
+265,charik,rico ,0.97759939
+266,charikyana,enriquecer- ganar dinero- acumularse ,0.027725545
+267,charina,tener ,0.533537276
+268,charinayay,tesoro ,0.85308702
+269,charirashka rumpa,balón sostenido ,0.347511348
+270,charirashka yasiy,balón sostenido ,0.347511348
+271,charishkata killkakamachiy,registro de la propiedad ,0.127242226
+272,chashnalla,solamente asi o de esa manera ,0.410153738
+273,chaska puncha,viernes ,0.541333261
+274,chaska rikuchik,telescopio ,0.634839911
+275,chaskakancha,constelación ,0.541333261
+276,chaskancha,constelación ,0.541333261
+277,chaski shuyulli,sello postal / timbre postal ,0.850839771
+278,chaskichik,recibo ,0.564984951
+279,chaskik,relevo ,0.374513141
+280,chaskilli,buzón de correo / casillero de correo ,0.076046448
+281,chaskina,recibir ,0.564984951
+282,chaskinancha,codominio ,0.541333261
+283,chawa,crudo ,0.573844909
+284,chawar,cabuya- penco ,0.541333261
+285,chawcha,delicado- fecundo- rápido de madurar ,0.343626799
+286,chawchuy,origen ,0.684796273
+287,chawpi,medio-mitad ,0.541333261
+288,chawpi kawsaypacha makanakuy,guerra medieval ,0.71858223
+289,chawpi pukcha,medio quintal ,0.036950527
+290,chawpi puncha,medio día ,0.617963984
+291,chawpi tuta,media noche ,0.686986513
+292,chawpi wata,medio año ,0.617963984
+293,chawpi yachay,segundo nivel de educación media ,0.344425785
+294,chawpihanika,media fanega 120 lb ,0.206216921
+295,chawpikakuna,medios ,0.478580991
+296,chawpikuska,semirrecta ,0.541333261
+297,chawpikutirik,media geométrica ,0.453408926
+298,chawpina / rakina,partir ,0.574340742
+299,chawpipampa,semiplano ,0.541333261
+300,chawpisuyu,región central ,0.828047372
+301,chawpiyak,media aritmética ,0.453408926
+302,chawpiyak chanikuna,medidas de tendencia central ,0.349244865
+303,chawpiyamuk,mediana ,0.35846743
+304,chawra,combustible ,0.004892398
+305,chayana,llegar ,0.694729402
+306,chayllatak,sinónimo ,0.578922496
+307,chayman,directo ,0.542370087
+308,chayniyak,distancia ,0.682649719
+309,chaypikana,asistir ,0.80541454
+310,chayra,aun ,0.491388851
+311,chayrak,todavia ,0.267179343
+312,chayrak ama,todavia no ,0.170569481
+313,chayshinaya,copia ,0.153597783
+314,chayshuk,otro- otra siguiente ,0.196772679
+315,chayshuk kawsay,otra vida ,0.446103572
+316,chaysinaya,copia ,0.153597783
+317,chaytalla,solamente ,0.454722774
+318,chaytu,fantasma ,0.191264689
+319,chichuna,fecundar ,0.541333261
+320,chika,tamaño/ verdad ,0.58320111
+321,chikan,diferente/ raro/ estraño ,0.015901898
+322,chikanchik iñu,punto aparte ,0.776465833
+323,chikanchik iñuw,punto aparte ,0.776465833
+324,chikanrakikyuk pakiyupaykuna,fracciones heterogéneas ,0.665020341
+325,chikanyana,diferenciar ,0.541333261
+326,chikanyay,diferente o distinto ,0.813654649
+327,chikchichak,coqueto/a ,0.541333261
+328,chikchichay,coquetear- coqueteo ,0.052768694
+329,chiknina,odiar ,0.74860149
+330,chikta- shara,partido- resquebrajado ,0.541333261
+331,chiktana,partir- rajar la madera ,0.23388195
+332,chilina,naranja ,0.541333261
+333,chillay,miércoles ,0.360971033
+334,chillay puncha,miércoles ,0.360971033
+335,chillka,chilca ,0.541333261
+336,chimay,descubrir una adivinanza ,0.899284682
+337,chimiyana,surgir- emerger- germinar ,0.017208536
+338,chimlasay,bióxido de carbono ,0.022844784
+339,chimpamanyaypurachi,seno ,0.541333261
+340,chimpamanyaypurachimuy,cosecante ,0.541333261
+341,chimpamanyaypuramunchi,cosecante ,0.541333261
+342,chimpamanyaypuranchi,seno ,0.541333261
+343,chimpana,cruzar ,0.891332836
+344,chimpanakuy,antónimo ,0.541333261
+345,chimpapurachi,relación ,0.880541801
+346,chimpapuranakuna,debatir ,0.18994938
+347,chimpapuranakuy,debate ,0.300757177
+348,chimpapuraychiy,comparación o relacionamiento ,0.948366585
+349,chimpaykuchukuna,ángulo opuesto por el vértice  ,0.842510255
+350,chinaku,homosexual- gay ,0.255311937
+351,chinawakra,hembra- femenino para animales ,0.473206825
+352,chinchaysuyu,norte ,0.667416762
+353,chiniku,minuto ,0.446473842
+354,chinilla,segundo ,0.491572151
+355,chinkana,perderse- desaparecer ,0.191538082
+356,chinkay,perder ,0.394423853
+357,chinlli,desayuno ,0.890756872
+358,chiri,frío ,0.201406043
+359,chirikunuy,clima ,0.541333261
+360,chirimuya,chirimoya ,0.993041907
+361,chirina,hacer frio ,0.223899733
+362,chiriwrku,paramo ,0.541333261
+363,chishi,tarde ,0.443753503
+364,chita,chivo- cabra ,0.814288932
+365,chiwila,piña ,0.351750773
+366,chucha,rapoza ,0.541333261
+367,chuchi,pollo ,0.683342638
+368,chuchu,seno ,0.541333261
+369,chuhama- churipakchuri,nieto ,0.541333261
+370,chukchina,recoger la sobra ,0.090231205
+371,chukchu unkuy,paludismo ,0.541333261
+372,chukchuk,tembloroso ,0.541333261
+373,chukchuna,temblar ,0.422527473
+374,chuki,mineral ,0.679960595
+375,chukikamay,minera- minería ,0.541333261
+376,chukillankay,mitas ,0.059509141
+377,chukllu,choclo ,0.589018469
+378,chukri,herida ,0.171167502
+379,chukrichiy,herir ,0.390737815
+380,chukrina,lastimarse ,0.088072938
+381,chukrishka,herido/a ,0.541333261
+382,chukriy,herir ,0.390737815
+383,chukriyku,ulcera ,0.038387526
+384,chuku,casco- celada ,0.541333261
+385,chukuri,comadreja ,0.541333261
+386,chullachishka kutinkutinchikyuk puchu,diferencia de exponentes impares ,0.930757734
+387,chullachishka yupay,número impar ,0.147515683
+388,chullashka kimsamanyachi,triángulo escaleno ,0.400177423
+389,chullayashka yupay,número impar ,0.147515683
+390,chullpi,chulpi ,0.541333261
+391,chumpi,faja ,0.541333261
+392,chumpiku,cinta ,0.488374782
+393,chunka,diez- 10 ,0.541333261
+394,chunka shuk,once- 11 ,0.541333261
+395,chunkachik hillay,material decimal ,0.110911967
+396,chunkachishka yupaychikakunata,representación polinómica del ,0.768797599
+397,chunkakri,décimo ,0.663539321
+398,chunkalli,decimal ,0.085437062
+399,chunkana,juego de azar ,0.656072922
+400,chunkayllichik,sistema decimal ,0.085437062
+401,chuntapalashka,embrujado ,0.541333261
+402,chupu,tumor ,0.04746288
+403,churana,ropa- ponerse la ropa- llevar puesto ,0.480934841
+404,churanakuna,vestimenta ,0.897420785
+405,churi,hijo ,0.203394885
+406,churu,caracol ,0.31190019
+407,chushak,vacío ,0.400675545
+408,chushik,lechuza ,0.066259016
+409,chusku,cuatro- 4 ,0.541333261
+410,chusku chunka,cuarenta- 40 ,0.541333261
+411,chusku patsak,cuatrocientos- 400 ,0.541333261
+412,chuskuchishka pampa,plano bidimensional cartesiano ,0.892474701
+413,chuskumanyachi,cuadrilátero ,0.541333261
+414,chuspi,mosca ,0.114099083
+415,chutana,halar ,0.541333261
+416,chutarik,elasticidad ,0.541333261
+417,chutarina,estirarse- ponerse en el suelo ,0.50493044
+418,chuya,aguado ,0.179302986
+419,chuyaklla yaku,agua potable ,0.608050812
+420,chuyakllachina,potabilizar ,0.541333261
+421,chuyakllachiy,potabilización ,0.541333261
+422,chuyayana,asear ,0.541333261
+423,chuyayay,desinfección ,0.177101029
+424,chuyayaygt,aseo ,0.458248259
+425,hachun,nuera- cuñada ,0.366728883
+426,hallmana,desyerbar ,0.541333261
+427,hampatu,rana ,0.147554188
+428,hampi,curación- medicina ,0.32108313
+429,hampik ikay,seguro medico ,0.223603056
+430,hampikillkalli,receta medica ,0.177113649
+431,hampina,curar ,0.290568336
+432,hampiwasi,centro de salud- hospital ,0.855268552
+433,hamuktana,entender ,0.574735738
+434,hamutana,comprender: ,0.77270666
+435,hamutay,comprensión/ comprender ,0.77270666
+436,hanika,fanega ,0.541333261
+437,hankana,desequilibrar ,0.541333261
+438,hankay,desequilibrio ,0.241373576
+439,hantsa,páncreas ,0.013952818
+440,hapina,coger- agarrar ,0.316510681
+441,haplla,descomedido ,0.541333261
+442,harkana,atrancar ,0.541333261
+443,harkana- kinchana,cercar ,0.030300426
+444,harkarina,tolerancia ,0.221198503
+445,harkariy,atascarse ,0.075157724
+446,harkashka shimiki,sílabas trabadas ,0.866737503
+447,hatarikuna,manifestaciones ,0.541333261
+448,hatariy,levantamiento ,0.541333261
+449,hatun,grande ,0.777547459
+450,hatun apuktukushka,señoríos ,0.541333261
+451,hatun hallmay,aporque ,0.541333261
+452,hatun hatun runa,gigante ,0.905331848
+453,hatun ishpa / isma,caca ,0.20256592
+454,hatun kahas,macizo montaña grande ,0.944798602
+455,hatun kaksas,macizo montaña grande ,0.944798602
+456,hatun mama,abuela ,0.541333261
+457,hatun paktay,objetivo general ,0.766778272
+458,hatun rikuchik,indicador general ,0.983505583
+459,hatun wankurikuna,organizaciones nacionales ,0.774155809
+460,hatun yachay,tercer nivel de educación superior ,0.446201585
+461,hatun yaya / hatun tayta,abuelo ,0.373543688
+462,hatuna,vender ,0.132215982
+463,hatuna pampa,mercado ,0.418312424
+464,hatuna wasilli,kiosko- chiringuito ,0.293381412
+465,hatunkay,grandeza ,0.872627154
+466,hatunkillka,mayúscula ,0.386744629
+467,hatunkucha,mar ,0.920647832
+468,hatunyachanawasi,universidad ,0.45893073
+469,hawa,arriba ,0.836210975
+470,hawachiy,alzar ,0.541333261
+471,hawahawalla,superficialmente ,0.541333261
+472,hawakara,epidermis ,0.541333261
+473,hawakarak,epidermico- relativo a la epidermis ,0.648138757
+474,hawalla,superficial ,0.257202751
+475,hawalla shimiki,sílaba simple ,0.243501872
+476,hawallallpa,suelo ,0.632890744
+477,hawapacha,espacio- cielo ,0.79463216
+478,hawaykawsay,civilización ,0.541333261
+479,hawchashka,ensalada ,0.695035397
+480,hayak,amargo- hiel- bilis ,0.0250555
+481,hayak muyu,pimienta ,0.667377171
+482,haytaypukllay,futbol ,0.690238118
+483,hayñi,derecho ,0.456029327
+484,hikama,jícama ,0.541333261
+485,hillay,implemento ,0.541333261
+486,hillaykuna,instrumentos ,0.764286294
+487,hillaysapa,aparato ,0.267370753
+488,hilli,sopa ,0.609729301
+489,hita,pozo ,0.100046028
+490,hondonada,pukru ,0.541333261
+491,huchu kiru,muela ,0.046993227
+492,huku ukuyayllika,secreccion endogeno ,0.072203999
+493,hukukanllayay,secrecion exogeno ,0.072203999
+494,hukurillawsallika,sistema excretor ,0.541333261
+495,humpi,sudor ,0.367657808
+496,humpina,sudar ,0.331714769
+497,hunina,conjugar ,0.976036682
+498,hunkay,semana ,0.671461453
+499,hunkay / kanchisri,semana ,0.671461453
+500,hunta,lleno ,0.863155346
+501,hunu,millón- 1000000 ,0.541333261
+502,hutkunantak,taladro ,0.049272416
+503,huña,moco ,0.09380922
+504,ichanik,duda ,0.452908291
+505,ichanik yuyal,oración dubitativa ,0.833820431
+506,ichanik yuyay,oración dubitativa ,0.833820431
+507,illak,cero- 0 ,0.541333261
+508,illana- mana tiyana,no haber- ausentar ,0.112846679
+509,illapa,arma de fuego escopeta ,0.257053603
+510,illay,faltar ,0.333606941
+511,ima rikunchikuna,causa ,0.302689946
+512,imachik,verbo ,0.408715771
+513,imachik yuyayki,frase verbal ,0.099230326
+514,imachikkuna,verbos ,0.026514488
+515,imak,sujeto ,0.027951987
+516,imakak,característica ,0.541333261
+517,imakay,concepto ,0.541333261
+518,imakay w,concepto ,0.541333261
+519,imakay sapsikuna,características generales ,0.56074178
+520,imakaychina,conceptualizar ,0.541333261
+521,imakaychinamanta,conceptualización ,0.541333261
+522,imallichik,adverbio ,0.541333261
+523,imamantachiy,justificación ,0.541333261
+524,imanik,predicado ,0.541333261
+525,imapash,cualquier cosa ,0.315825085
+526,imarayku,causas ,0.177538461
+527,imaruran,consecuencias ,0.103866485
+528,imaruray,función ,0.867367847
+529,imashinakan,formas ,0.676259731
+530,imatukuna,acontecer ,0.226590079
+531,imatukuna w,acontecer ,0.226590079
+532,imatukuy,acontecimiento- suceder ,0.541333261
+533,imayay,materia ,0.483464904
+534,imaykuna,elementos ,0.773684262
+535,imilla,adolescente hombre- ,0.541333261
+536,inchi,maní ,0.541333261
+537,inti,sol- intipuncha domingo ,0.725852795
+538,inti llika,sistema solar ,0.864746553
+539,inti puncha,domingo ,0.725852795
+540,inti suyu,este ,0.584787279
+541,intikinrayllipyay,solsticios ,0.541333261
+542,intillayayllipyay,equinoccio ,0.541333261
+543,intillika,sistema solar ,0.864746553
+544,intiraymi,fiesta de sol ,0.803157582
+545,intishayakllipyay,equinoccio ,0.541333261
+546,intiwayllashka,fotosíntesis ,0.948062777
+547,ishkantinpurachi,sobreyectiva ,0.541333261
+548,ishkay,dos- 2 ,0.541333261
+549,ishkay chunka,veinte- 20 ,0.541333261
+550,ishkay patsak,docientos- 200 ,0.541333261
+551,ishkaychishka kutinkutinchikyuk yapa,suma de potencias con exponente par ,0.768633402
+552,ishkaychishka yupay,número par ,0.270675962
+553,ishkaykillkanancha kutinchiy,factorización de binomios ,0.541333261
+554,ishkaymanpurachi,biyectiva ,0.541333261
+555,ishkayniki kallari yachay,segundo nivel ,0.675030619
+556,ishkaynikichishka iñu,par ordenado ,0.925776288
+557,ishkaynipa yuyal,oración bimembre ,0.833820431
+558,ishkaynipa yuyay,oración bimembre ,0.833820431
+559,ishkaypakta kimsamanyaychi,triángulo isósceles ,0.400177423
+560,ishpa phuru,vejiga ,0.053540011
+561,iskun,nueve- 9 ,0.541333261
+562,iskun chunka,noventa- 90 ,0.541333261
+563,iskun patsak,novecientos- 900 ,0.541333261
+564,ismuwanu,compost ,0.541333261
+565,isru,aro ,0.186872619
+566,iwila,shampoo natural planta ,0.718718249
+567,iñina,creer ,0.286649582
+568,iñiy,creencia- creer ,0.286649582
+569,iñu uchilla suyukuna,puntos colaterales ,0.450478141
+570,iñuku,átomo ,0.541333261
+571,iñuwa,molécula ,0.541333261
+572,kachachik,imperativo ,0.541333261
+573,kachachik yuyay,oración imperativa ,0.273575355
+574,kachamuna,mandar- enviar ,0.483096167
+575,kacharishka,libre ,0.897046948
+576,kachi,sal ,0.602323797
+577,kachipurawa,borraja ,0.541333261
+578,kahaskancha,cordillera ,0.916612618
+579,kahasmuku,nudos de cordillera ,0.604345598
+580,kakatsu,lagaña ,0.071940977
+581,kakchiy,definición ,0.288734809
+582,kakrikuchina,describir ,0.852711214
+583,kakrikuchina w,describir ,0.852711214
+584,kaksaskancha,cordillera ,0.916612618
+585,kaksaskuna,accidentes geográficos ,0.713207115
+586,kaksasmuku,nudos de cordillera ,0.604345598
+587,kaksasuyu pampa,area andina ,0.958691725
+588,kaktarikuchik,físico estructura ,0.749992332
+589,kakunamaki,desafío ,0.321181723
+590,kakwillay,certificado ,0.541333261
+591,kakwillay- illu,certificado ,0.541333261
+592,kalak,débil ,0.411165619
+593,kallampa,hongo ,0.085230453
+594,kallanpa,hongo ,0.085230453
+595,kallari yachay,primer nivel de educación básica ,0.289994706
+596,kallari yuyay,introducción ,0.753364482
+597,kallarillaktayku,primeros pobladores ,0.795710323
+598,kallarinancha,dominio ,0.199569077
+599,kallariy,presentación- inicio ,0.474438452
+600,kallariy yachay,educación básica ,0.137007618
+601,kallariyuyay,presentación ,0.882503328
+602,kallpa,vigor ,0.541333261
+603,kallpana,correr ,0.863352938
+604,kallpanakuy,atletismo ,0.623135369
+605,kallpay,correr ,0.863352938
+606,kalluwatariy,trabalengua ,0.541333261
+607,kamachashka,protegido ,0.803999695
+608,kamachay,proteger ,0.541333261
+609,kamachik,legislador- consejero ,0.316758201
+610,kamachik atiy,poder legislativo ,0.890892629
+611,kamachik wasi,corte superior de justicia ,0.280083485
+612,kamachikamay,administración ,0.207298806
+613,kamachikkuna,leyes ,0.183320652
+614,kamachina,consejo- exhoracion ,0.541333261
+615,kamachipuk,legislativo ,0.871597389
+616,kamachipuk tay,poder legislativo ,0.890892629
+617,kamachipuy,legislar ,0.300552606
+618,kamachiy,aconsejar ,0.541333261
+619,kamakay,higiene ,0.544029049
+620,kamana,cuidar/ abundancia ,0.922836419
+621,kamanayay,precaución ,0.698941685
+622,kamari,regalo ,0.580379012
+623,kamari- challay,ofrenda ,0.775387545
+624,kamay,cuidar/proteccion ,0.541333261
+625,kamay paktachi atiy,poder judicial ,0.276633161
+626,kamayku,evaluación ,0.067238759
+627,kamaykuchiy,verificación ,0.541333261
+628,kamaykuna,evaluar ,0.281580174
+629,kamaykurina,auto evaluar  ,0.271361756
+630,kamaykurinaw,auto evaluar ,0.271361756
+631,kamaykuriy,auto-evaluación ,0.541333261
+632,kamaykuy,evaluación ,0.067238759
+633,kamaypakta,mandato ,0.313024344
+634,kamayuk,cuidador- facultades de autoridad ,0.221141013
+635,kamayuk wasi,ministerio ,0.32578227
+636,kamikuy,agravio ,0.636837413
+637,kamu, libro ,0.691733781
+638,kamukuska,biblioteca ,0.920844681
+639,kamuti,camote ,0.07479785
+640,kamuyachik,imprenta ,0.344722302
+641,kan,tú ,0.541333261
+642,kana,ser / estar ,0.637611411
+643,kancha,afuera ,0.708870381
+644,kancha shuti,sustantivo colectivo ,0.864709241
+645,kanchachani milka,cuadro estadístico ,0.214422239
+646,kanchachani shuyu,gráfico estadístico ,0.790765487
+647,kanchachanikamay,estadística ,0.541333261
+648,kanchaman,hacia fuera ,0.613382511
+649,kanchayashka,convexo ,0.541333261
+650,kanchis,siete- 7 ,0.541333261
+651,kanchis chunka,setenta- 70 ,0.541333261
+652,kanchis patsak,setecientos- 700 ,0.541333261
+653,kankuna / kikinkuna,ustedes / vosotros ,0.365465343
+654,kanllayay,externo ,0.589618924
+655,kapak,diciembre ,0.306931113
+656,kapak apuk,gobierno ,0.541333261
+657,kapak killa,diciembre ,0.306931113
+658,kapak llakta,reino ,0.357917044
+659,kapak saylla,meridiano ,0.353333872
+660,kapak shuyu,mapa político ,0.60803336
+661,kapakchi tantanakuy,organización política ,0.371545058
+662,kapakchunkana,ajedréz ,0.795410657
+663,kapakkamay,política ,0.371545058
+664,kapakllakta,imperio ,0.419048326
+665,kapakmarka,imperio- reinado ,0.119617327
+666,kapaktukukamay,politica ,0.371545058
+667,kapasaylla,meridiano ,0.353333872
+668,kapisayu,poncho- alargado y entero kitukara ,0.219722012
+669,kapisayu kitukara,poncho- alargado y entero ,0.541333261
+670,kapuk- pukushka,producto ,0.541333261
+671,kapulli,capulí ,0.224713387
+672,kara,corteza- piel- cáscara ,0.541333261
+673,karana,dar regalo ,0.480431106
+674,karaskruyuwa,crustáceos ,0.541333261
+675,kari,hombre ,0.446741979
+676,kari atallpa,gallo ,0.391611844
+677,karilla,gallardo ,0.152868007
+678,karipurakuyay,homosexualidad ,0.541333261
+679,kariwarmikanakamay,sexualidad ,0.541333261
+680,karkanka- sakru,esqueleto ,0.008104986
+681,karkay,vertebrado ,0.541333261
+682,karu,lejos ,0.541333261
+683,karuwillay,telegrama ,0.096152713
+684,karuyari,teléfono ,0.136681225
+685,karuyarik wasilli,cabina telefonica ,0.25114643
+686,karwa,llovizna ,0.828297799
+687,karway killa,agosto ,0.313328096
+688,kasha,espina ,0.056393925
+689,kashakarayukwa,equidermos ,0.541333261
+690,kasi,tranquilo- quieto ,0.240937916
+691,kasik,paz ,0.75045024
+692,kasilla,tranquilidad ,0.541333261
+693,kasku,pecho ,0.214153885
+694,kasku tullu,esternón ,0.541333261
+695,kaspana,chamuscar ,0.541333261
+696,kaspi,palo- madera ,0.806728416
+697,kaspimakana,espada ,0.601638162
+698,katana- killpana,cubrir ,0.171450163
+699,katariy,levantamiento ,0.541333261
+700,kati paktachik,complemento indirecto ,0.252107061
+701,katichay,prosa ,0.541333261
+702,katichina,imitar ,0.541333261
+703,katik iñu,punto seguido ,0.78207976
+704,katik iñuw,punto seguido ,0.78207976
+705,katik paktachik kp,complemento indirecto ,0.252107061
+706,katikmanyaypurachi,coseno ,0.541333261
+707,katikmanyaypuramuchi,secante ,0.541333261
+708,katikmanyaypuramunchi,secante ,0.541333261
+709,katikmanyaypuranchi,coseno ,0.541333261
+710,katiknina,narrar ,0.541333261
+711,katikunkuy- purikunkuy,epidemia ,0.639142279
+712,katina,seguir ,0.541333261
+713,katinalla,modelo ,0.263862915
+714,katinti yupaykuna,series numéricas ,0.541333261
+715,katisuyu rikuchik iñu,puntos colaterales ,0.450478141
+716,katsu,escarabajo ,0.541333261
+717,katuranti,negocio ,0.365289955
+718,katuy,vender ,0.132215982
+719,katuyranti,feria ,0.960262225
+720,katuyrantin chani,el valor del intercambio ,0.827046232
+721,kawalli,lente- gafas ,0.541333261
+722,kawana,cantar ,0.659243558
+723,kaway,observación ,0.665643719
+724,kawchuna,torcer ,0.27836475
+725,kawi,rombo ,0.541333261
+726,kawikuk,romboide ,0.541333261
+727,kawilli,camilla ,0.263078679
+728,kawitu-tiyarina,mueble ,0.541333261
+729,kawpuna,torcer ,0.27836475
+730,kawsa marka runa,nacionalidades ,0.541333261
+731,kawsakkuna,seres ,0.54475158
+732,kawsana,vivir ,0.644667951
+733,kawsay,cultura- vida ,0.563775792
+734,kawsay killka,biografía ,0.541333261
+735,kawsay killkamachiy,registro civil ,0.147027753
+736,kawsay mallki,herencia genética ,0.865679629
+737,kawsaykuk,célula ,0.279228253
+738,kawsaykuktantalli,tejido ,0.541333261
+739,kawsaymarka,nacionalidad ,0.541333261
+740,kawsaypacha,medio ambiente ,0.902496185
+741,kawsaypura,interculturalidad ,0.541333261
+742,kawsayrikcha,novela ,0.426380986
+743,kawsayrikcha w,novela ,0.426380986
+744,kawsayshuktakayariy,aculturación ,0.541333261
+745,kawsayta chikipi churashpa,poniéndose en peligro ,0.183321056
+746,kawsayuk,célula ,0.279228253
+747,kay,aquí ,0.541333261
+748,kaya,mañana ,0.552740979
+749,kayachina,convocar ,0.317373267
+750,kayana,invitar/ llamar ,0.216948499
+751,kayna,ayer ,0.296751073
+752,kaytarikuchi,estados fìsicos ,0.646006282
+753,kaytu,nervio ,0.421472896
+754,khallu,lengua ,0.270989328
+755,khari,masculino ,0.648393746
+756,khiwa,hierva ,0.541333261
+757,khura,maíz germinado ,0.077165367
+758,khuyana,amar ,0.927649111
+759,khuzu,larva de escarabajo ,0.013917054
+760,kichankuy,cólera ,0.139736328
+761,kichkikuchu,ángulo agudo ,0.754155709
+762,kichkikuchu kimsamanyachi,triángulo acutángulo ,0.400177423
+763,kichkikuchu kimsamanyaychi,triángulo acutángulo ,0.400177423
+764,kichuy,arrebatar ,0.140034429
+765,kichwa llika,alfabeto kichwa ,0.076180176
+766,kikin,usted ,0.541333261
+767,kikin shuti,nombre propio ,0.512528795
+768,kikinkuyari,autoestima ,0.113970845
+769,kikinllatak,consigo mismo ,0.390702147
+770,kikinmanta,atentamente ,0.541333261
+771,kikinmutsuri,autoconsumo ,0.541333261
+772,kikinrimay,idiolecto ,0.541333261
+773,kikinruray,costumbres ,0.824430669
+774,kikinyari,identidad ,0.615351225
+775,kikinyarina,identificar – apropiar ,0.044878996
+776,kiliki,quilico ,0.541333261
+777,kilkawana,redactar ,0.0835504
+778,killa,luna ,0.677836223
+779,killa,mes ,0.541333261
+780,killanturi,eclipse lunar  ,0.568285971
+781,killanturiy,eclipse lunar ,0.568285971
+782,killapa nikirakiri,fases de la luna ,0.677836223
+783,killimsa rumi,carbón de piedra ,0.43304923
+784,killka kamachik,regla ortográfica ,0.400571842
+785,killka katina,leer ,0.531700466
+786,killkakatiyuk,escritor ,0.868001124
+787,killkana,escribir ,0.378546577
+788,killkanancha,término algebraico ,0.491530983
+789,killkananchakamay,álgebra ,0.018039385
+790,killkananchapurachina,reducción de términos semejantes ,0.376054206
+791,killkananchaychi,expresión algebraica ,0.049538315
+792,killkapa unancha,signo de puntuación ,0.509070159
+793,killkapa unancha w,signo de puntuación ,0.509070159
+794,killkawana,redactar  ,0.0835504
+795,killkaya,carta ,0.823456384
+796,killkayachay,tema - teoría ,0.22407885
+797,killkayrimay,obra literaria ,0.861908918
+798,killpa,capa ,0.446925316
+799,killpak kushma,sweater- saco ,0.304627105
+800,killu,amarillo ,0.541333261
+801,killu sara,maíz amarillo ,0.541333261
+802,kimi killka,coeficiente o parte literal ,0.01509345
+803,kimi yupay,coeficiente numérico ,0.242294091
+804,kimina,acercar ,0.773965143
+805,kiminancha,coeficiente ,0.013252007
+806,kimirik,contigüos ,0.706013841
+807,kimirik kuchukuna,ángulos contiguos o adiacentes ,0.903686148
+808,kimirishka yuyay,oración subordinada ,0.274190092
+809,kimiriy,acercarse ,0.888571406
+810,kimpu / kashtuna,mandíbula- quijada ,0.541333261
+811,kimraymaya,hipotenusa ,0.541333261
+812,kimsa,tres- 3 ,0.541333261
+813,kimsa chunka,treinta- 30 ,0.541333261
+814,kimsa kilkanancha kutinchiy,factorización de trinomios ,0.541333261
+815,kimsa patsak,trecientos- 300 ,0.541333261
+816,kimsachishka kullka,prisma triangular ,0.917342999
+817,kimsachishkapa tawa,trinomio cuadrado perfecto ,0.883328613
+818,kimsakamachik,regla de tres ,0.400571842
+819,kimsakamachimuk,regla de tres inversa ,0.134112516
+820,kimsakamachiyak,regla de tres simple ,0.47687103
+821,kimsakilkanancha kutinchiy,factorización de trinomios ,0.541333261
+822,kimsamanyachi,triángulo ,0.400177423
+823,kimsamanyachikamay,trigonometría ,0.541333261
+824,kimsamanyapurachi,relaciones trigonométricas ,0.420815
+825,kimsaniki kallariy yachay,tercer nivel de ed básica ,0.309697514
+826,kimsaniki kallariyachay,tercer nivel ,0.616307896
+827,kimsapaktamanyachi,triángulo equilátero ,0.400177423
+828,kincha,corral ,0.675333685
+829,kinchak,corchetes ,0.541333261
+830,kinku,curva ,0.388389656
+831,kinkuk,paréntesis ,0.635671652
+832,kinraymanya,hipotenusa ,0.541333261
+833,kinrayshuyu,función ,0.867367847
+834,kinti,picaflor ,0.541333261
+835,kinuwa,quinoa ,0.938244979
+836,kipapakchiruray,proyecto ,0.451558306
+837,kipapakchiruray yachay,proyecto de aula ,0.404815956
+838,kipilli,paquete ,0.163711674
+839,kiri,llaga ,0.736357574
+840,kirkinchu / kachikampu,armadillo ,0.817806298
+841,kiru,árbol ,0.620856717
+842,kishparik,independencia ,0.541333261
+843,kishpichina,perdonar ,0.541333261
+844,kishpiripacha,liberalismo ,0.541333261
+845,kishuar,quishuar ,0.541333261
+846,kita,brioso ,0.541333261
+847,kiti,cantón ,0.03738823
+848,kiti apuk,jefe político ,0.129789499
+849,kiti kamaklli,concejal ,0.123793982
+850,kiti kapachik apuk,comisario nacional ,0.568182726
+851,kitikapak,capital provincial ,0.890953684
+852,kitilli,parroquia ,0.925416935
+853,kitilli apuk,teniente político ,0.375597019
+854,kucha,lago ,0.958610345
+855,kuchaku,laguna ,0.541333261
+856,kuchawpi,bicectriz ,0.541333261
+857,kuchi,cerdo ,0.709719036
+858,kuchulla,cerca ,0.903035912
+859,kuchupatay,grado angular ,0.790644555
+860,kuku- pukchi,libra ,0.124449539
+861,kukulli,paloma ,0.6470338
+862,kulla,enero ,0.354760755
+863,kulla killa,enero ,0.354760755
+864,kullasuyu,región sur ,0.835380976
+865,kullka,prisma ,0.901120596
+866,kullka puncha,jueves ,0.475832327
+867,kullkikamak wankuri,asociación bancaria ,0.101087487
+868,kullkikamak wankuriy,asociación bancaria ,0.101087487
+869,kullkikamak wasi,banco- mutua- copo- corporación- financiera ,0.172409286
+870,kullkikamay,economía ,0.30725887
+871,kullkikamay kamu,libro contable ,0.114669364
+872,kullkikamay shinayachi,conmutabilidad bancaria ,0.12792673
+873,kullkikamaychik,sistema contable ,0.053672236
+874,kullkikikinchik,póliza ,0.614629015
+875,kullkilli,billetes de denominacion baja- pequeños ,0.357794219
+876,kullkimantawankuri,organización económica ,0.541333261
+877,kullkimashnayachik,presupuesto ,0.410537904
+878,kullkiminkay kamu,libro banco ,0.411320049
+879,kullkipatsakri,impuesto ,0.131213631
+880,kullkirayku hatun tantanakuy,grandes bloques económico ,0.558580831
+881,kullkirayku llankay,actividad económica ,0.893998005
+882,kullkiyuk,capitalista ,0.108364291
+883,kullku,tronco ,0.40014125
+884,kulta,pato ,0.219528451
+885,kumuriy,inclinarse ,0.937392027
+886,kuna,dar ,0.399640871
+887,kunakuy,ofrecer ,0.541333261
+888,kunakyuyayku,refrán ,0.541333261
+889,kunan,presente ,0.541333261
+890,kunan pacha,tiempo presente ,0.816998362
+891,kunan yallishka,participio ,0.541333261
+892,kunana,consejo ,0.583062309
+893,kunanyallishka,participio ,0.541333261
+894,kunka,garganta- cuello ,0.104239701
+895,kunka tullu,nuca ,0.030282992
+896,kunkaklla,olvidadiso ,0.541333261
+897,kunkallina,bufanda ,0.541333261
+898,kunkariy,olvidarse ,0.811223111
+899,kunkashka,olvidado ,0.442211031
+900,kunkay,olvidar ,0.541333261
+901,kunkaycha,negligencia- descuido ,0.364202399
+902,kunkaychashka,descuidado- negligente ,0.004813064
+903,kunkaychay,descuidar ,0.541333261
+904,kunkaychiy,omisión- omitir ,0.541333261
+905,kunkaylla,tranquilo- en reposo ,0.433454167
+906,kunkuri,rodilla ,0.033966944
+907,kunkuriy,arrodillarse ,0.086823657
+908,kuntisuyu,occidente ,0.284243951
+909,kuntur,condor ,0.643877442
+910,kunuk,caliente ,0.541333261
+911,kunuk allpa,costa ,0.724622542
+912,kunuk yaku,agua termal ,0.951377001
+913,kunukuy- killuchakay,carbohidrato ,0.93033187
+914,kupa,rastrojo ,0.541333261
+915,kupa- ñuku,basura ,0.062315215
+916,kurikinka,curiquingue ,0.541333261
+917,kurpa,masa amasado ,0.062734712
+918,kurpa chanpa,terrón ,0.541333261
+919,kurpa- putuk,enano ,0.14329244
+920,kurpañutuchi,desterronamiento ,0.541333261
+921,kuru,gusano ,0.145577837
+922,kurun anta,motocicleta- moto ,0.305477854
+923,kururuna,ovillar ,0.541333261
+924,kuruta,testículo ,0.045415061
+925,kusa,esposo- marido ,0.710004047
+926,kusana,asar ,0.541333261
+927,kushi,alegre ,0.926047077
+928,kushikuy,emoción ,0.788905577
+929,kushillu,mono ,0.197121698
+930,kushipatak,sacerdote ,0.647853691
+931,kushiyay,alegria ,0.831626676
+932,kushkapaktay,puntualidad ,0.541333261
+933,kushma,camisa ,0.226460156
+934,kushpana,saltar ,0.541333261
+935,kushpana- pawana,saltar ,0.541333261
+936,kuska,parte- sitio- lugar- dirección ,0.314955379
+937,kuska imallichik,adverbio del lugar ,0.924406846
+938,kuskallpayku,subterráneo ,0.866024177
+939,kuskayupay chani,valor relativo ,0.703160021
+940,kuski,septiembre- frondoso- abundancia ,0.922836419
+941,kuski killa,septiembre ,0.336485023
+942,kuskina- hamutayana,analizar ,0.541333261
+943,kuskunku,buho ,0.1016103
+944,kutachik,molinero ,0.541333261
+945,kutana,molino ,0.38109517
+946,kuticharina,rescatar ,0.541333261
+947,kutichina,responder ,0.426265934
+948,kutichiy,responder ,0.426265934
+949,kutin,vez veces ,0.541570177
+950,kutinchi,múltiplo ,0.541333261
+951,kutinchichiy,factorización ,0.541333261
+952,kutinchik millka,tabla de frecuencias ,0.701588309
+953,kutinchiklla,frecuencia absoluta ,0.646993696
+954,kutinchina,repetir ,0.81078919
+955,kutinchinaw,repetir ,0.81078919
+956,kutinchishka yupaykuna,números múltiplos ,0.132855839
+957,kutinchiy,multiplicación ,0.541333261
+958,kutinkutinchik,exponente ,0.944257408
+959,kutinkutinchiy,potenciación ,0.541333261
+960,kutinkutinmuchiy,radicación ,0.541333261
+961,kutinkutirik,base de potencia  ,0.490738643
+962,kutinriksina,reconocer ,0.599097713
+963,kutirichiy,convertirse ,0.646452142
+964,kutirik,factor común ,0.617149643
+965,kutirik taripay,búsqueda del factor común ,0.617149643
+966,kutsana,rasgar ,0.051745036
+967,kutsi,ligero ,0.657513947
+968,kutsiy,agilidad ,0.541333261
+969,kuwartilla - ukapa,cuartilla  +/- 60 lb ,0.206525462
+970,kuy,cuy / conejillo de indias ,0.021652282
+971,kuya,reina- emperatriz- soberana del incario señora- dama ,0.046881334
+972,kuyak,acariciador ,0.541333261
+973,kuyana-,amar ,0.927649111
+974,kuyashka,amante ,0.830360118
+975,kuyaylla,hermosa- linda ,0.911628057
+976,kuyka,lombríz ,0.04468397
+977,kuykakamay,lombricultura ,0.541333261
+978,kuyllur,asterisco ,0.010698702
+979,kuytsa,joven- adolescente mujer ,0.683745637
+980,kuyurihillanta,máquina ,0.308597439
+981,kuyuy,mover ,0.293052469
+982,lachuri,hijastro ,0.541333261
+983,ladera,shayak allpa ,0.541333261
+984,lamama,madrastra ,0.541333261
+985,lancha,tizón ,0.541333261
+986,lapani,hermanastra ,0.541333261
+987,laushi,hijastra ,0.541333261
+988,lawawki,hermanastro ,0.541333261
+989,layaya / latayta,padrastro ,0.139301584
+990,llachak,vegetal ,0.887913964
+991,llachakamay,flora ,0.960905317
+992,llachapashka,remendado ,0.111173888
+993,llachapay,remendar ,0.910172233
+994,llachapayuk,remendon ,0.541333261
+995,llaki,triste ,0.101748278
+996,llaki,tristeza ,0.051358465
+997,llakichik,perjuicios ,0.048915567
+998,llakichik wallpariykuna,formas de explotación ,0.676259731
+999,llakichipacha,la colonia ,0.25356005
+1000,llakichiy,explotación ,0.541333261
+1001,llakilla,triste ,0.101748278
+1002,llakitukuy,desastre ,0.051055576
+1003,llakta,pueblo ,0.541333261
+1004,llakta ushay,democracia ,0.319675949
+1005,llaktakay,pueblos ,0.541333261
+1006,llaktamanta llukshiri,migración ,0.241223857
+1007,llaktapak ushay,democracia ,0.319675949
+1008,llaktari allpa,territorio ,0.359087277
+1009,llaktarimay,dialecto ,0.541333261
+1010,llaktay,pueblo ,0.541333261
+1011,llaktayku,población ,0.429173934
+1012,llaktushay,democracia ,0.319675949
+1013,llakushi,sentimiento ,0.608691027
+1014,llama,llama- oveja ,0.541333261
+1015,llamkaypaktachi,función rol ,0.67260133
+1016,llamkaywillay,informe ,0.164251779
+1017,llamkayñan,planificación ,0.541333261
+1018,llampu,liso ,0.541333261
+1019,llankahillay,equipos ,0.271556323
+1020,llankamana,inutil ,0.066781803
+1021,llankanauku,oficina ,0.286227168
+1022,llankanaukuk,oficinista ,0.541333261
+1023,llankayñan,planificación ,0.541333261
+1024,llano- campo,pampa ,0.898817629
+1025,llantu,sombra ,0.813616612
+1026,llanturiy,eclipse ,0.398703447
+1027,llapiriy,presión ,0.407720802
+1028,llashachik,balanza ,0.003381029
+1029,llashak,masa y peso ,0.445229733
+1030,llashak tupu,medida de masa ,0.601288578
+1031,llatanay,descubrirse- sacarse la ropa ,0.935687162
+1032,llawsayachik,endòcrino ,0.006044328
+1033,llawsayari,viscosidad ,0.094050525
+1034,llawtu,corona- diadema ,0.541333261
+1035,llichayuk,dichoso ,0.07223326
+1036,llika,sistema ,0.541333261
+1037,llika yachay wasikuna,redes educativas ,0.343358929
+1038,llika- wallpa,estructura ,0.897817841
+1039,lliwitupu,radianes ,0.541333261
+1040,lluki,izquierdo ,0.418369646
+1041,lluki maki,mano izquierda ,0.248045955
+1042,llullana,mentir ,0.056598811
+1043,llullu,tierno ,0.746610139
+1044,llumpak,limpio ,0.541333261
+1045,llumpakay,virginidad ,0.091562728
+1046,llumpakshunku,castidad ,0.100612484
+1047,llushpichiy,despegar ,0.292755743
+1048,llutachina,pegar ,0.124220698
+1049,llutariy,magnetismo ,0.913988658
+1050,loma,tula ,0.541333261
+1051,lulun,huevo ,0.443999892
+1052,lumu,yuca ,0.246498326
+1053,lutsay,proporción- proporcionalidad ,0.541333261
+1054,lutsaychishpa raki,reparto proporcional ,0.427709838
+1055,lutsaykumuk,proporción armónica o inversa ,0.319242975
+1056,lutsaykutinchik,frecuencia relativa ,0.742321067
+1057,lutsaykuyak,proporcionalidad inversa ,0.124484688
+1058,lutsaysapayak,proporcionalidad directa ,0.577917181
+1059,machana,emborrachar ,0.144880696
+1060,machu,tuerto ,0.08908064
+1061,makana,pegar ,0.124220698
+1062,makanakuy,guerra ,0.541333261
+1063,makanakuy runakuna,guerreros ,0.541333261
+1064,makay,golpe- pegar- agravio ,0.636837413
+1065,maki,mano ,0.382826955
+1066,maki hawa,palma de la mano ,0.315140014
+1067,maki ruka,uña del dedo de la mano ,0.127246185
+1068,maki washa,dorso de la mano ,0.382826955
+1069,maki-watana,manilla- pulsera ,0.247106939
+1070,makillina,guante ,0.209533325
+1071,makimañachi,colaboración mutua ,0.399789426
+1072,makimañachiy,prestación de mano para el trabajo ,0.380618266
+1073,makimañashpa,una mano de ayuda ,0.375200969
+1074,makimañay,pedir la mano para casarse ,0.55854544
+1075,makipakchiruray,artesanía ,0.97504865
+1076,makirumpay,voleibol ,0.933762328
+1077,makirurashka,manualidad ,0.541333261
+1078,makiruray,artesanía ,0.97504865
+1079,makiruraykamay,artesanía ,0.97504865
+1080,makiyasiy,voleibol ,0.933762328
+1081,maklluy,peligro ,0.183321056
+1082,maklluy gt,peligro ,0.183321056
+1083,mallina,probar- saborear ,0.95547231
+1084,mama,madre- mamá ,0.233699097
+1085,mama chanka,muslo ,0.277585785
+1086,mama chumpi,faja-madre ,0.541333261
+1087,mama kullki kamachi,regla de interés ,0.461738262
+1088,mamakamachik,constitución ,0.541333261
+1089,mamakucha,océano ,0.932471185
+1090,mamakullki,capital ,0.890953684
+1091,mamallakta,país ,0.552168718
+1092,mamallakta kallaripa tantanakuy,asamblea constituyente ,0.833138765
+1093,mamallakta kawsay kallari,vida republicana ,0.563775792
+1094,mamallakta michari,defensa nacional ,0.788862121
+1095,mamallakta pura kapak kamay,política exterior ,0.597176119
+1096,mamallaktachiy,estado ,0.646006282
+1097,mamallaktapa apukwasi,palacio de gobierno ,0.915268687
+1098,mamallaktapa haylli,himno nacional ,0.40631817
+1099,mamallaktapa kapak,nacionalista ,0.541333261
+1100,mamallaktapak tantanakuy,estado ,0.646006282
+1101,mamallaktapura kullkikulka,fondo monetario internacional fmi ,0.453230861
+1102,mamayakunta mintalay,comercio marítimo ,0.95283883
+1103,mana alli,mal- malo ,0.291684915
+1104,mana rikshka antakuna,los ovnis ,0.069123715
+1105,mana riksishka,extraño ,0.333129759
+1106,mana tukurik,infinito ,0.781852096
+1107,manahaykapash,nunca jamas ,0.117799316
+1108,manapakiyak yupay,número irracional ,0.135468189
+1109,manapipash,nadie- ninguno ,0.263232556
+1110,manarak turuwan makiruray pacha,período precerámico ,0.303871182
+1111,manashuwak,honrado ,0.676598672
+1112,manañakcharishka,despinado ,0.942226621
+1113,manchay,temer ,0.082498776
+1114,manllariy,asustarse ,0.541333261
+1115,manllay,temer- tener miedo ,0.320489608
+1116,manuchaskiy,cobrar ,0.07600269
+1117,manya,borde- lado ,0.675985303
+1118,manyaku,cateto ,0.541333261
+1119,manyakupurachi,tangente ,0.1548207
+1120,manyakupuramuchi,cotangente ,0.541333261
+1121,manyakupuramunchi,cotangente ,0.541333261
+1122,manyapikakkuna,extremos ,0.541333261
+1123,manyatupu,perímetro ,0.815222819
+1124,manña,borde- orilla ,0.93764033
+1125,mapayashka,obseno ,0.541333261
+1126,mapayay,pornografía ,0.188216496
+1127,marka kamachik,prefecto ,0.860209562
+1128,markakamachiklli,consejero provincial ,0.316758201
+1129,markapuk,gobernador ,0.541333261
+1130,masha,yerno- cuñado ,0.238106387
+1131,mashi,amigo ,0.385867357
+1132,mashipurari,relación mutuo ,0.546539428
+1133,mashkaychani,incógnita ,0.541333261
+1134,mashnayachi,conocimiento de cantidad o cálculo ,0.68294049
+1135,mashnayachina,calcular ,0.586010502
+1136,mashnaykuna,cantidad  ,0.730644533
+1137,mashu- chimpilaku,murciélago ,0.346751193
+1138,mashuwa,mashua ,0.541333261
+1139,maskana,buscar ,0.459114267
+1140,maskaypacha,corona ,0.541333261
+1141,masma yachak,ingeniero ,0.283087493
+1142,masmana,construir ,0.637627745
+1143,masmay,armar ,0.6031458
+1144,mawkana,usar ,0.359526297
+1145,may kutinchikuna,productos notables ,0.933479939
+1146,may mutsuri,importantes ,0.843041926
+1147,may rakikuna,cocientes notables ,0.933479939
+1148,mayalli,indispensable ,0.880786711
+1149,maychani- raymana,importancia ,0.670630386
+1150,mayhatun,macro ,0.541333261
+1151,maykanpash,cualquiera ,0.541333261
+1152,maykutinchikuna,productos notables ,0.933479939
+1153,maymachariy,alcoholismo ,0.541333261
+1154,maymutsurik,importante ,0.784036139
+1155,maymutsuriy- maychaniy,importancia ,0.670630386
+1156,maypakchiruray,arte ,0.959757799
+1157,mayrakikuna,cocientes notables ,0.933479939
+1158,mayu,río ,0.966887255
+1159,mayuchilla,micro ,0.75429626
+1160,maywa,morado- violeta ,0.594891673
+1161,maywana,enamorar ,0.672561841
+1162,maywana- munayana,enamorar ,0.672561841
+1163,mañana,pedir ,0.730049074
+1164,mañay,solicitud ,0.541333261
+1165,mi si,gato ,0.280269906
+1166,michachikanyay,descomposición de la energía ,0.186545825
+1167,michina,pastar ,0.017257978
+1168,mika- mati,plato de madera ,0.806728416
+1169,miklla,treinta libras ,0.029885969
+1170,mikuna,comer ,0.886939771
+1171,mikuy- mikuna,alimento ,0.58876368
+1172,milchina,manipular ,0.541333261
+1173,milchina- llanwana,palpar ,0.994131807
+1174,milchinay,experimentar ,0.922724908
+1175,milka,párrafo- cuadro ,0.049272416
+1176,milkachishka,killka cuadro sinóptico ,0.049272416
+1177,milkachishka killkaw,cuadro sinóptico ,0.049272416
+1178,milkakinrayshuyu,histograma ,0.541333261
+1179,millanayay,feo ,0.184980762
+1180,millaymakay,,0.541333261
+1181,millkashuyu,gráfico de barras ,0.426799426
+1182,milluku,melloco ,0.541333261
+1183,minchakama,despedida próxima ocasión ,0.623741881
+1184,minchayana,despedirse ,0.687962511
+1185,minchayana w,despedirse ,0.687962511
+1186,minkana,encargar ,0.541333261
+1187,minkarik,huesped ,0.775331525
+1188,mintala,comerciante ,0.585299249
+1189,mintalana,comercializar ,0.541333261
+1190,mintalanayay,comercializaciòn ,0.541333261
+1191,mintalay,comercio ,0.69371551
+1192,mintu,pirámide ,0.781954664
+1193,mirachina,aumentar ,0.247264962
+1194,mirachina w,reproducir ,0.420948933
+1195,mirana,aumentar- producir- ,0.541333261
+1196,mirka,paño- mancha de la cara ,0.108797339
+1197,mishanakuy,competencia ,0.258318781
+1198,mishay,ganr- competir ,0.307933184
+1199,mishki,dulce ,0.810744055
+1200,mishu,mestizo ,0.715297755
+1201,mishuma uchu,ají menos picante ,0.561853089
+1202,mitsa,verruga ,0.541333261
+1203,mitsak,mezquino ,0.308718559
+1204,mitsana,mezquinar ,0.541333261
+1205,miyuchina- mapayachina,contaminar ,0.541333261
+1206,miyuwayra,anhídrido carbónico ,0.0073368
+1207,miyuy,contaminación ,0.541333261
+1208,miyuy wanu,fertilizante químico ,0.135707307
+1209,miyuychi,contaminaciòn ,0.541333261
+1210,montaña- cerro,urku ,0.031194037
+1211,monte- bosque- selva,sacha ,0.541333261
+1212,muchana,besar ,0.666402426
+1213,muchiku,sombrero ,0.792360225
+1214,muksi,oxido ,0.210222397
+1215,muku,nudo ,0.332536669
+1216,muku,articulación ,0.541333261
+1217,munana,querer ,0.283878955
+1218,munanayay,deseo carnal ,0.349047501
+1219,munapayay,desear con locura ,0.392756152
+1220,munarishka,aficionado ,0.630241405
+1221,munay,deseo ,0.541333261
+1222,munay killka,escritura de expresión libre ,0.868845198
+1223,munay yachay,auto estudio ,0.22780537
+1224,munaymanta ruray,hobby- pasa tiempo ,0.816998362
+1225,muntira,gorra ,0.703920228
+1226,murtiñu,mortiños ,0.541333261
+1227,muru unkuy,sarampión ,0.053994919
+1228,muru- añawi,fruto ,0.65593108
+1229,muruchu,morocho ,0.309228889
+1230,murukuna,productos agrícolas- granos ,0.439574977
+1231,mushuk,nuevo ,0.572788987
+1232,mushukpacha,neolítico ,0.541333261
+1233,mushukyachinalla,renovable ,0.541333261
+1234,muskuna,soñar ,0.541333261
+1235,musparina,desvariar ,0.541333261
+1236,musyana,preveer ,0.541333261
+1237,musyana- kipakrikuna,prever ,0.541333261
+1238,musyay,prevención- temer- tener miedo ,0.320489608
+1239,mutilon,motilones ,0.541333261
+1240,mutsukmanta,necesariamente ,0.541333261
+1241,mutsuna,necesitar ,0.69498051
+1242,mutsuri killkanancha kutinchi,productos notables ,0.933479939
+1243,mutsurik,útil ,0.658749095
+1244,mutsushka,necesitado- menesteroso ,0.541333261
+1245,mutsuy,uso ,0.354643876
+1246,mutsuy,necesitar ,0.69498051
+1247,mutsuypa,utilidad ,0.541333261
+1248,muyu,semilla ,0.198557484
+1249,muyuna,rodear ,0.541333261
+1250,muyuntin,alrededor ,0.541333261
+1251,muyuntintupu,medida del círculo ,0.579953438
+1252,muyuriy,giro ,0.554897447
+1253,muyuy rimay,mesa redonda ,0.878711344
+1254,muyuy tupu,perímetro de la circunferencia ,0.960098812
+1255,muyuykuchu,ángulo de giro ,0.713769228
+1256,muyuypacha,ciclo ,0.338295881
+1257,muyuyrimay,mesa redonda ,0.878711344
+1258,muyuyshuyu,gráfico de pasteles ,0.401750916
+1259,muyuytupu,longitud de la circunferencia ,0.951654902
+1260,nanay,dolor ,0.147605665
+1261,nankay,equilibrio ,0.804146035
+1262,napaykuna,saludos ,0.525696424
+1263,niki,orden ,0.759931466
+1264,nikichik,ordenador- computadora- pc ,0.306088372
+1265,nikichina,ordenar- organizar ,0.541333261
+1266,nikirakiri,fase ,0.313767524
+1267,nikiyupay,números ordinales ,0.132855839
+1268,nikiyupaykuna,números ordinales ,0.132855839
+1269,nikyachay,teorema ,0.541333261
+1270,nimaykan,ninguna ,0.203639102
+1271,nina,fuegollama- candela ,0.541333261
+1272,nina kuru,luciérnaga ,0.541333261
+1273,ninayay- rupariy,combustión ,0.012912169
+1274,nipa,elemento ,0.597034938
+1275,nipakutichi,intersección ,0.963415449
+1276,nipapurachi,correspondencia- relación ,0.880541801
+1277,nipayay,componente ,0.541333261
+1278,nishani,autodeterminación ,0.028944031
+1279,nuna,espíritu- alma ,0.559142291
+1280,pacha,tiempo y espacio ,0.930194288
+1281,pacha imallichik,adverbio de tiempo ,0.816998362
+1282,pacha shuktayay,fenómeno natural ,0.83335596
+1283,pacha tupuk,reloj ,0.541333261
+1284,pachachik,reloj ,0.541333261
+1285,pachachik- sayllachik,reloj ,0.541333261
+1286,pachakutik pacha,renacimiento ,0.848608067
+1287,pachamama,mundo ,0.720579972
+1288,pachamamapi tiyak,recurso natural ,0.461307009
+1289,pachamamapi tiyakkuna,recursos naturales ,0.536881819
+1290,pachanyachiy,fomento ,0.392824921
+1291,pachapi tiyak chimpaykuna,teoría de la relatividad ,0.70771169
+1292,pacharikuy,cosmovisión  ,0.541333261
+1293,pacharikuyw,cosmovisión ,0.541333261
+1294,pachatupu,medida de tiempo ,0.816998362
+1295,pachaykamay,física ,0.017084532
+1296,pakana,esconder ,0.17591485
+1297,pakarikuy,velar ,0.137795999
+1298,pakarina,amanecer ,0.838765028
+1299,pakashka,escondido ,0.541333261
+1300,pakay,huabo ,0.541333261
+1301,pakcha,cascada ,0.836114758
+1302,pakchi,técnica ,0.096667278
+1303,pakchiruray,tecnología ,0.541333261
+1304,pakchirurayachay,taller ,0.076399228
+1305,pakiriklla,frágil ,0.222288819
+1306,pakiy,romper en pedazos- destrozar ,0.081901123
+1307,pakiyupay,número racional ,0.151373328
+1308,pakpayu,aves ,0.708899964
+1309,paktachani,ecuación o igualdad de valores ,0.859319159
+1310,paktachay,justicia ,0.256047433
+1311,paktachichin,responsabilizar ,0.541333261
+1312,paktachichina,responsabilizar ,0.541333261
+1313,paktachik,responsable ,0.69204359
+1314,paktachik kuchu,ángulo complementario ,0.97676717
+1315,paktachik tantachishka,conjunto complementario ,0.97866439
+1316,paktachikkuna,propiedades o relaciones ,0.259189414
+1317,paktachikuna,propiedades ,0.264397249
+1318,paktachiriy,asumir responsabilidad ,0.216554201
+1319,paktachiy,responsabilidad ,0.541333261
+1320,paktak,suficiente ,0.605496944
+1321,paktakamu,libro mayor ,0.674347392
+1322,paktakuchu,ángulo recto ,0.749250522
+1323,paktakuchu kimsamanyachi,triángulo rectángulo ,0.716508251
+1324,paktakuyuy- waskariklla,ritmo ,0.71197564
+1325,paktalla kawsay,equidad de género ,0.013336195
+1326,paktama,jeme ,0.541333261
+1327,paktamanya,cateto menor ,0.448057973
+1328,paktanancha,resultado ,0.541333261
+1329,paktapuchu,diferencia simétrica ,0.541333261
+1330,paktara,cuidado ,0.621057477
+1331,paktaraki,divisibilidad ,0.541333261
+1332,paktarakikyuk pakiyupaykuna,fracciones homogéneas ,0.020472991
+1333,paktarakikyupay,máximo común divisor ,0.08114146
+1334,paktarakirikyupay,mínimo común múltiplo ,0.458623771
+1335,paktay,objetivo ,0.541333261
+1336,paktayachay,currículo ,0.16890333
+1337,paktayashka,equivalente ,0.385544336
+1338,paktayuyay,definición ,0.288734809
+1339,paku,café ,0.880534862
+1340,pal anta,plátano ,0.752047498
+1341,palama- itha- añallu,insecto ,0.111397632
+1342,palamamiyu,insecticida ,0.062394804
+1343,pallana,cosechar ,0.765568062
+1344,pallay,cosechar ,0.765568062
+1345,palta,aguacate ,0.298655185
+1346,paltarikkuska,barra ,0.719594174
+1347,pamaway,cosmos ,0.664364841
+1348,pamaway nipa,elemento cósmico ,0.818260245
+1349,pamawayak,cósmico ,0.840211245
+1350,pamawyri,cósmico ,0.840211245
+1351,pampa,planicie ,0.947052187
+1352,pampa shuyukuna,figuras planas ,0.676479384
+1353,pampallpa,llanura ,0.964077364
+1354,pampawarmi,prostituta ,0.541333261
+1355,panchi,febrero ,0.45237059
+1356,panchi killa,febrero ,0.45237059
+1357,pani,hermana hermano a hermana ,0.184033925
+1358,pankakullki,billetes ,0.220687881
+1359,pankalli,documento de identificacion- documento pequeño ,0.174376467
+1360,panta,confuso ,0.338144941
+1361,pantano- ciénega,wampu allpa ,0.541333261
+1362,pantay,confusion ,0.188587058
+1363,papa,patata ,0.541333261
+1364,papaya,papaya ,0.224490395
+1365,parana,demorar- durar en imbabura ,0.063790613
+1366,parkuna,regar ,0.23871988
+1367,paruk,pulmón ,0.541333261
+1368,pascal kutinkutinchi,esquema de paskal ,0.201801182
+1369,paskakuchu,ángulo obtuso ,0.360346749
+1370,paskakuchu kimsamanyaychi,triángulo obtusángulo ,0.400177423
+1371,paskama,cuarta ,0.27802547
+1372,paskama-ukapa,cuarta de mano ,0.245121188
+1373,paskana,abrir ,0.284600786
+1374,paskarikra,braza longitud ,0.036686396
+1375,paskay,abrir ,0.284600786
+1376,pasña,adolescente mujer ,0.683745637
+1377,pata millma,vello púvico ,0.351841475
+1378,pata tullu,hueso púvico ,0.341272951
+1379,patarina,doblar ,0.121140912
+1380,patay,grado sexagecimal ,0.309562417
+1381,patayak:,tramo ,0.800305365
+1382,patayay,tramo ,0.800305365
+1383,patayayku,intervalo- recorrido- rango ,0.609650383
+1384,patayku,minutos angulares ,0.146032686
+1385,pataykulla,segundos angulares ,0.115088508
+1386,patpa,pluma ,0.164684409
+1387,patpay,emplumar ,0.541333261
+1388,patsak,cien- 100 ,0.541333261
+1389,patsak piti,tanto por ciento ,0.03062156
+1390,patsakri,porcentaje ,0.14199864
+1391,patsakri shutichi,notación porcentual ,0.21743447
+1392,patsakri shutichiy,notación porcentual ,0.21743447
+1393,patsakrikrapampa,cuadra ,0.101617569
+1394,patsaktatkipampa,hectárea ,0.71657598
+1395,patsakwata,siglo ,0.894534675
+1396,pawana,volar ,0.28848034
+1397,pawkar,marzo ,0.32297703
+1398,pawkar killa,marzo ,0.32297703
+1399,pay,ella ,0.385941978
+1400,paya,vieja ,0.443527433
+1401,paya mama,anciana ,0.229189587
+1402,paya ruka,dedo pulgar ,0.122611636
+1403,payku,payco ,0.541333261
+1404,paykuna,ellas ,0.541333261
+1405,payllashka,pagado ,0.130935816
+1406,payllay,pagar ,0.218677912
+1407,paypachik,pertenencia ,0.541333261
+1408,paypaknay,pertencer ,0.541333261
+1409,peña,haka ,0.906209865
+1410,phacha,sábana ,0.020175529
+1411,phallkala,sien ,0.065021721
+1412,phanka,hoja ,0.173895793
+1413,phankalla,liviano ,0.914378433
+1414,phatsayana,separar ,0.541333261
+1415,phawachik anku,nervio ,0.421472896
+1416,phintu,manta- trapo ,0.294045017
+1417,phintu ushuta,medias ,0.486259178
+1418,pichay,limpia ,0.835430042
+1419,pichay- chuyay- mayllay,limpieza- aseo ,0.458248259
+1420,pichka,cinco- 5 ,0.541333261
+1421,pichka chunka,cincuenta- 50 ,0.541333261
+1422,pichka patsak,quinientos- 500 ,0.541333261
+1423,piki,pulga ,0.290829696
+1424,pillis,piojo del cuerpo ,0.490605969
+1425,pillpintu,mariposa ,0.641152229
+1426,pimill,alga acuática ,0.404805104
+1427,pinkay,vergüenza ,0.033917582
+1428,pinkullu,tobillo ,0.002031816
+1429,pinllu,lechero ,0.013708886
+1430,piruri,rol ,0.386948259
+1431,piruru,disco ,0.53426418
+1432,pirway,diagramación ,0.541333261
+1433,pirwayay,maqueta ,0.682163698
+1434,pirámide natural-,kutama ,0.541333261
+1435,pishiyak pakiyupay,fracción propia ,0.30556654
+1436,pishiyashka,menor que ,0.448057973
+1437,pishku,pájaro- ave ,0.356037468
+1438,pishku- patpayuk,ave ,0.356037468
+1439,piti,poco ,0.443220813
+1440,pitikuska,segmento ,0.625688704
+1441,pitina- kuchuna,cortar ,0.267623854
+1442,pituy,deseo amoroso ,0.708087791
+1443,pityuk- chuskulli pukcha,arroba ,0.109430336
+1444,piñakuy,enfadado ,0.065142658
+1445,piñana,enfadarse ,0.121993107
+1446,piñashka,enojado ,0.210591582
+1447,plumaje,patpasapa ,0.541333261
+1448,policia,chapak ,0.541333261
+1449,puchu,diferencia ,0.541333261
+1450,puchu tupati,cabo de vela ,0.6067529
+1451,puchuy,extraño ,0.333129759
+1452,puka,rojo ,0.541333261
+1453,puka sara,maíz rojo ,0.541333261
+1454,pukara,lugares sagrados – centros ceremoniales ,0.891719472
+1455,pukcha,quintal ,0.024007684
+1456,pukchiku,onza ,0.82807369
+1457,pukllana,jugar ,0.541333261
+1458,pukllay,deporte ,0.892438451
+1459,pukpu,litro- botella ,0.571372456
+1460,pukshay akllay kamachik,tribunal electoral ,0.083322624
+1461,puku,plato ,0.541333261
+1462,pukuk,soplador ,0.541333261
+1463,pukukuk,productivo ,0.346543824
+1464,pukukun,fecundo- fertil ,0.84670873
+1465,pukuna,cerbatana ,0.541333261
+1466,pukushka,encantado ,0.541333261
+1467,pukuy,producción ,0.474963008
+1468,pukuyay,madurez ,0.440910959
+1469,pukyu,vertiente ,0.541333261
+1470,pullkanka,escudo ,0.541333261
+1471,pullkankayuk,escudero ,0.152888356
+1472,puma,puma ,0.541333261
+1473,puma-maki,pumamaqui ,0.541333261
+1474,punasuyu,región sierra ,0.614881607
+1475,puncha,día ,0.541333261
+1476,punchaklla,claro ,0.328363758
+1477,punchankamu,libro diario ,0.595646497
+1478,punchanta kawsay,vida cotidiana ,0.879009735
+1479,punchayakun,alba ,0.380177592
+1480,puntu,vasija ,0.820497305
+1481,pupu,ombligo ,0.629312902
+1482,puray,relación ,0.880541801
+1483,purichihallmay,segunda desyerbe ,0.561160126
+1484,purik,caminante ,0.813672068
+1485,purikacha,paseo ,0.979649099
+1486,purina,caminar ,0.971628026
+1487,purun,llanura abandonada ,0.964077364
+1488,purun wiwa,animal silvestre ,0.675134981
+1489,purutu,fréjol ,0.541333261
+1490,pusak,ocho- 8 ,0.541333261
+1491,pusak chunka,ochenta- 80 ,0.541333261
+1492,pusak patsak,ochocientos- 800 ,0.541333261
+1493,pusakkamay,dirección ,0.314955379
+1494,pushak,lider ,0.300601529
+1495,pushakakllay,tribunal ,0.083322624
+1496,pusku- hatki,ácido ,0.321676312
+1497,pusku- putuku,espuma ,0.260929622
+1498,putiha,unidad fundamental de la fanega ,0.5204154
+1499,putika,botija 12-5 lib ,0.215579638
+1500,putitupu,medida de volumen ,0.426455215
+1501,putu,galón ,0.299606795
+1502,putuk,trapecio ,0.541333261
+1503,putukuk,trapezoide ,0.541333261
+1504,puyuy,evaporación ,0.541333261
+1505,puzun,estómago ,0.280626713
+1506,puñuna,dormir ,0.198601706
+1507,puñuyllak,insomnio ,0.094643918
+1508,raka,vagina ,0.355258238
+1509,? rakacha,zanahoria ,0.429454706
+1510,rakacha,zanahoria ,0.429454706
+1511,rakikyupay,denominador ,0.696446455
+1512,rakikyupaykuna,números divisores ,0.132855839
+1513,rakinakuy,distribución ,0.66149221
+1514,rakinchi,submúltiplo ,0.541333261
+1515,rakiri,parte- sección ,0.306638676
+1516,rakirikuska,partes ,0.663268401
+1517,rakirikyupay,numerador ,0.541333261
+1518,raku,grueso ,0.541333261
+1519,raku chunchulli,intestino grueso ,0.116646346
+1520,raku kushma,abrigo ,0.702833171
+1521,raku purutu,porotón ,0.541333261
+1522,rakuyay,grosor o espesor ,0.541333261
+1523,rantimpana,intercambiar ,0.541333261
+1524,rantimpayni,reciprocidad ,0.036628443
+1525,rantina,comprar ,0.557752259
+1526,rantinpa pankakuna,documentos comerciales  ,0.363451234
+1527,rantinpak- ayni,reciprocidad ,0.036628443
+1528,rantinpaktak,conmuntativa ,0.541333261
+1529,rantinpanka,factura ,0.247060766
+1530,rantinpankaku,tarjeta de crédito ,0.136240865
+1531,ranziyu,gringos- ingleses ,0.816358431
+1532,ranziyukunapak mamallakta,país anglosajona ,0.883135558
+1533,rasu,sólido agua ,0.768900913
+1534,rasuyay,solidificación agua ,0.576205837
+1535,ratata,fuego energía ,0.634367432
+1536,ratata allpa,pólvora ,0.541333261
+1537,ratata urku,fuego del volcán ,0.724400983
+1538,rawmay,podar ,0.02017477
+1539,rawrana,arder ,0.070718778
+1540,rawranay kaspikuchuna kapak,caballero de la ardiente espada ,0.601638162
+1541,rayku,ocasion ,0.541333261
+1542,raymi,junio- fiesta ,0.580005814
+1543,raymi killa,junio ,0.230519004
+1544,razu,nevado ,0.541333261
+1545,rikcha,semejanza ,0.541333261
+1546,rikcha,semejanza- congruencia ,0.256184542
+1547,rikcha kutirik,factor común ,0.617149643
+1548,rikchachani,valor semejante ,0.557609368
+1549,rikchak,foto ,0.683682953
+1550,rikchak,foto- fotografía- semejante ,0.440760275
+1551,rikchakmaytu,carrete de fotos- rollo de pelicula para fotos ,0.552502891
+1552,rikchay/suyu,figura ,0.557990708
+1553,rikchayachiy,genética ,0.944811057
+1554,rikra,brazo ,0.408163944
+1555,rikra uku,axila ,0.024762157
+1556,rikramuku,codo ,0.541333261
+1557,riksi,conocido ,0.705966714
+1558,riksichik yuyay,presentación ,0.882503328
+1559,riksichikyuyay,presentación ,0.882503328
+1560,riksina,conocer ,0.952360652
+1561,riksiri,identidad persona ,0.615351225
+1562,riksishka,conocido ,0.705966714
+1563,rikuchi,manifestación ,0.541333261
+1564,rikuchik ruka,dedo índice ,0.081531051
+1565,rikuchikkuna,indicadores ,0.541333261
+1566,rikuchina,exponer ,0.166321215
+1567,rikuchishuyu,pictograma o icono ,0.958640873
+1568,rikuchiy,índice ,0.193705086
+1569,rikuna,mirar ,0.569375635
+1570,rikurayana,controlar ,0.286468644
+1571,rikurik,vista- que se ha visto ,0.67161673
+1572,rikuypacha,paisaje ,0.980217015
+1573,rimak,hablante ,0.541333261
+1574,rimana,relatar- hablar ,0.198389637
+1575,rimanakuna,dialogar ,0.428535352
+1576,rimarikuna,expresiones- conversaciones ,0.37427598
+1577,rimayachakuy,seminario ,0.310483202
+1578,rimaykachay,discurso ,0.254300166
+1579,rimaytaki,copla ,0.944966948
+1580,rinri,oreja- oído ,0.541333261
+1581,rinri kuru,caracol del oído ,0.31190019
+1582,rinrina,arete ,0.179634858
+1583,ripana,ir ,0.676114384
+1584,ripankalli,boleto o ticket de avion- tren- autobus ,0.326064868
+1585,ritimuna,energía ,0.795198072
+1586,ritirina kuska,lugares energéticos ,0.963183802
+1587,ritiwayra,energía eòlica ,0.238523351
+1588,ritiy,energía ,0.795198072
+1589,ruka,dedo ,0.122611636
+1590,ruku,viejo ,0.445294554
+1591,ruku yaya / ruku tayta,anciano ,0.330373836
+1592,rukutu uchu,ají picante ,0.608983681
+1593,rumiyashka,fósil ,0.063477735
+1594,runa,ser humano ,0.646006282
+1595,runakak,ser humano ,0.646006282
+1596,runapachakay,humanidad ,0.541333261
+1597,runapak aycha,el cuerpo humano  ,0.490605969
+1598,runashina,personaje ,0.677987258
+1599,runayay pacha yuyay,evolución del hombre ,0.651258044
+1600,runpaki,pelota de futbol ,0.334717144
+1601,ruparishka,quemadura ,0.016125593
+1602,rupariykuna,combustión ,0.012912169
+1603,rurakay,deber hacer- obligacion ,0.547102256
+1604,rurana,aplicar ,0.541333261
+1605,rurarayana,ejercitar ,0.947934335
+1606,rurarayana w,ejercitar ,0.947934335
+1607,rurarayay,ejercitar ,0.947934335
+1608,rurashkayuyay,antecedente ,0.541333261
+1609,ruray,función- edificar- construir ,0.637627745
+1610,ruray paktachi,rol función ,0.67260133
+1611,ruraykatichiy,programa agenda ,0.548000145
+1612,rurayri ñan,proceso operativo ,0.286503208
+1613,rurukuna,frutas ,0.893365046
+1614,ruwana,poncho ,0.169635499
+1615,río,mayu ,0.959560368
+1616,sacha,selva ,0.959718827
+1617,sacha wiwa,animal silvestre ,0.675134981
+1618,sachana,forestar ,0.541333261
+1619,sachayu,silvestre ,0.861306104
+1620,sakina,abandonar- dejar ,0.585729408
+1621,sakiriy,quedarse ,0.541333261
+1622,sakishka,abandonado- dejado ,0.31473629
+1623,sakma,bofetada ,0.541333261
+1624,sakmay,abofetear ,0.169101015
+1625,sakra,brujo ,0.541333261
+1626,sakrachiy,hacer brujería ,0.210605515
+1627,sakray,embrujar- hechizar- echar maleficios ,0.298989245
+1628,saksana,hartar ,0.032782068
+1629,salliy,azufre ,0.945654289
+1630,samana,descansar ,0.93384586
+1631,samay,aliento- respiración ,0.596766053
+1632,samaytu,aura ,0.813476839
+1633,sami,variedad- clase ,0.459870867
+1634,saminay,herencia ,0.349356445
+1635,saminchashka,bendito ,0.360080526
+1636,saminchay,bendecir viene de la tradición de la cosecha ,0.916257475
+1637,samiyachiy,clasificación ,0.541333261
+1638,sanka,cerco- excavaciòn ,0.685633092
+1639,sanku,espeso ,0.541333261
+1640,sapalla,viudo- viuda ,0.541333261
+1641,sapalla nipapurachi,correspondencia biunívoca ,0.167353237
+1642,sapalla rikcha kutirik,factor común monomio ,0.617149643
+1643,sapalla shuti,sustantivo individual ,0.61710048
+1644,sapallu,sapallo ,0.541333261
+1645,sapan,cada quien - cada uno ,0.575909725
+1646,sapan kawsaykuna,racismo ,0.347136649
+1647,sapansami chain,población estadística ,0.429173934
+1648,sapansami chani,población estadística ,0.429173934
+1649,sapapurachi,inyectiva ,0.541333261
+1650,sapi,raiz ,0.567635311
+1651,sapsi,características ,0.541333261
+1652,sapsi- imakay,característica ,0.541333261
+1653,sapsikuna,características ,0.541333261
+1654,sara,maíz ,0.541333261
+1655,saran,rendija ,0.027921268
+1656,sarun / kaynapak kayna,anteayer ,0.023267876
+1657,sasa yuyay,oración compuesta ,0.871455798
+1658,sasa yuyay gt,oración compuesta ,0.871455798
+1659,sasak,dificil ,0.454060631
+1660,sasamanta,dificilmente ,0.541333261
+1661,sasasapa,dificultad ,0.711934629
+1662,sasi,noviembre ,0.315298878
+1663,sasi killa,noviembre ,0.315298878
+1664,satina,meter ,0.10909434
+1665,satirishka,metido- metiche ,0.009993943
+1666,sawarina warmi,novia- prometida ,0.541333261
+1667,saylla,hora ,0.4767268
+1668,sayllachik,horario ,0.8772335
+1669,sayllachikancha,husos horarios ,0.770475447
+1670,sayni,lila ,0.541333261
+1671,saywa,lindero- límite ,0.378538499
+1672,sayway,limitacion ,0.387149339
+1673,sañukata,tejado ,0.541333261
+1674,shanu- uki,cafécolor ,0.541333261
+1675,shayak,vertical ,0.541333261
+1676,shaykushka,cansado ,0.272473781
+1677,shayri,tabaco ,0.541333261
+1678,shayriyay,tabaquismo ,0.541333261
+1679,shañu- kiwi,caféplanta ,0.541333261
+1680,shikra,bolso- cartera ,0.249248238
+1681,shikshi,comezón ,0.030625208
+1682,shimi,boca ,0.70982102
+1683,shimi kamachik,gramática ,0.382005859
+1684,shimi kara,labio ,0.007016404
+1685,shimi kiru,diente ,0.541333261
+1686,shimi millma,bigote barba ,0.045654954
+1687,shimiki,sílaba ,0.183575925
+1688,shimiku,morfema ,0.541333261
+1689,shimiku yuyay awariy,morfosintaxis ,0.541333261
+1690,shimikukancha yachay,morfología ,0.541333261
+1691,shimininakuy,prometerse mutuamente ,0.541333261
+1692,shiminishka,promesa ,0.324739525
+1693,shiminiy,prometer ,0.541333261
+1694,shimisapa,chismoso ,0.010861539
+1695,shimiyari,relación ,0.880541801
+1696,shimiyuk kamu,diccionario ,0.351208626
+1697,shina,ejemplo ,0.541333261
+1698,shina imallichik,adverbio de modo ,0.530720973
+1699,shinalla- rikchalla,parecido a ,0.623826296
+1700,shinashinalla,sencillo ,0.852756585
+1701,shipir,cuña ,0.679634307
+1702,shiray,droga ,0.228271881
+1703,shitana,arrojar- tirar ,0.226424685
+1704,shiwi,anillo ,0.341489587
+1705,shuk,uno- 1 ,0.541333261
+1706,shuk patay paktachani,ecuación de primer grado ,0.858557351
+1707,shukkuna,unos ,0.541333261
+1708,shukllamanta nipapurachi,correspondencia univoca ,0.167353237
+1709,shukllayashka,unidad ,0.184437366
+1710,shukniki kallari yachay,primer nivel ,0.792179621
+1711,shukniki patayay,primer tramo ,0.816496426
+1712,shuknipa yuyay,oración unimembre ,0.833820431
+1713,shukta charik tantanakuykuna,potencias dominantes ,0.145346654
+1714,shuktak,otro ,0.541333261
+1715,shuktakkuna,otros ,0.541333261
+1716,shuktayachik,caso ,0.326902473
+1717,shuktayay,derivados ,0.261223608
+1718,shukyachina,fusionar ,0.046174624
+1719,shukyachishka,unificado grafía ,0.541333261
+1720,shunku,núcleo- corazón ,0.692655149
+1721,shunku ruka / chawpi ruka,dedo del corazón- dedo del medio ,0.146573379
+1722,shunku yuyayw,idea central ,0.66649066
+1723,shunkuna,humildad ,0.648288747
+1724,shunkushka,presentimiento ,0.095986874
+1725,shunkuyuk,humilde ,0.763757886
+1726,shunkuyuyay,intención ,0.272540991
+1727,shushuna,filtrar ,0.541333261
+1728,shutikuna,nomenclatura ,0.541333261
+1729,shutillatak,verdadero/a ,0.541333261
+1730,shutilli,adjetivo ,0.288324504
+1731,shutintak,en verdad ,0.58320111
+1732,shutipak rantikuna,pronombres personales  ,0.123274613
+1733,shutipi llaktapak shutipi,representación ,0.768797599
+1734,shutiranti,pronombre ,0.03429758
+1735,shutiy,verdad ,0.58320111
+1736,shuwana,robar ,0.068308895
+1737,shuyay,esperar ,0.446156607
+1738,shuyu,imagen- dibujo- gráfico ,0.541333261
+1739,shuyu nikichik,ordenador gráfico ,0.065335772
+1740,shuyuchik chakata,rosa de los vientos ,0.460161963
+1741,shuyutupukamachi,sistema geométrico ,0.896265352
+1742,shuyutupukamay,geometría ,0.731574683
+1743,shuyutupukamaychi,sistema geométrico ,0.896265352
+1744,shuyutupumanya,figura geométrica ,0.557990708
+1745,siki,nalga ,0.025510266
+1746,siki tullu / siki chupa tullu,coxis ,0.541333261
+1747,siki utuku,ano ,0.541333261
+1748,siklla,gentil ,0.455385202
+1749,sinchi,duro ,0.341367612
+1750,sinchi aycha,músculo ,0.131203792
+1751,sinchi rumi,solido ,0.785725243
+1752,sinchi rumpa,esfera sólida ,0.7443037
+1753,sinchi wiru,cilindro sólido ,0.28867822
+1754,sinchikay,resistencia ,0.541333261
+1755,sinchikuy,esfuerzo ,0.541333261
+1756,sinchiruna,valiente ,0.437011508
+1757,sinchiyachik,acentuación/ atrevido ,0.295113658
+1758,sinchiyachik unancha,signo de exclamación ,0.734478513
+1759,sinchiyachiy,atreverse ,0.701461031
+1760,sinchiyashka,dureza ,0.643397747
+1761,sinchiyay,solidificación ,0.541333261
+1762,sinchiyuyana,razon ,0.20840013
+1763,sinchiyuyarishka,razonado ,0.541333261
+1764,sinka,nariz ,0.089011367
+1765,sinka utuku,fosa nasal ,0.083862716
+1766,sinkanku,elefante ,0.316983209
+1767,sirana,coser ,0.22334516
+1768,sirik,horizontal ,0.541333261
+1769,sirina,acostar ,0.143747087
+1770,sirma,electricidad ,0.572068482
+1771,sirpa,traicion ,0.231825755
+1772,sirpak,traidor ,0.028677462
+1773,sirpashka,traicionado ,0.418364711
+1774,sirpay,traicionar ,0.109759992
+1775,sisa,flor ,0.753786385
+1776,siti,muñeco ,0.054215266
+1777,sitwa,julio ,0.688924246
+1778,sitwa killa,julio ,0.688924246
+1779,suchu,paralítico ,0.541333261
+1780,sukta,seis- 6 ,0.541333261
+1781,sukta chunka,sesenta- 60 ,0.541333261
+1782,sukta pakta umiña,cubo o exaedro ,0.236216845
+1783,sukta patsak,seiscientos- 600 ,0.541333261
+1784,suktachishka tiksi umiña,poliedro hexagonal ,0.971186182
+1785,suktachishka umiña,poliedro hexagonal ,0.971186182
+1786,suku,gris- carrizo ,0.541333261
+1787,sulka-kitilli,parroquia ,0.925416935
+1788,sulka-kitilli w,parroquia ,0.925416935
+1789,sumak,bonito- hermoso- bello- rico- excelente ,0.939591761
+1790,sumak killka,caligrafía ,0.541333261
+1791,sumak kuska,zona- lugar turística ,0.924406846
+1792,sumak kuskakamay,turismo ,0.824521251
+1793,sumak kuskakuna,lugares turísticos ,0.96510301
+1794,sumak napaywan,saludos cordiales ,0.815748806
+1795,sumak rimariy,literario ,0.723090267
+1796,sumak rimay yachay,literatura ,0.689868642
+1797,sumak rimayachak,literato ,0.541333261
+1798,sumak rimayachay,literatura ,0.689868642
+1799,sumak rimaysami,género literario ,0.723090267
+1800,sumak rimaysami w,genero literario ,0.723090267
+1801,sumak yupay,honra- honor ,0.714719091
+1802,sumakillka,caligrafía ,0.541333261
+1803,sumakyachik rimay,figura literaria ,0.692184342
+1804,sumakyachik yura,planta ornamental ,0.981794506
+1805,sumakyachina,respeto- respetuoso ,0.865246416
+1806,sumaychana - muchana,respetar ,0.332261477
+1807,sumaychay,respeto ,0.353994448
+1808,suni,longitud ,0.541333261
+1809,sunikuchu,ángulo llano o plano ,0.738824188
+1810,sunisuytu,regla o regleta ,0.090291576
+1811,sunitupu,medida de longitud ,0.541333261
+1812,suniwachi,jabalina ,0.541333261
+1813,suniyachik kuchu,ángulo suplementario ,0.749250522
+1814,suniyak,línea ,0.294496503
+1815,sunka-,barba ,0.095983936
+1816,sunkana- tsunkana,absorber ,0.541333261
+1817,sunturpawkar,lanza ,0.541333261
+1818,supa- pakpa- karachi,fibracabuyo ,0.541333261
+1819,surkuy,sacar ,0.724539185
+1820,suytuyashka kullka,prisma rectangular ,0.927237569
+1821,suyu,región ,0.80450387
+1822,suyu rikuchik iñu,puntos cardinales ,0.994514756
+1823,suyuta rikuchik anta,brújula ,0.138002115
+1824,taki,música ,0.811101979
+1825,takina,cantar ,0.659243558
+1826,takina,tocar musica ,0.811101979
+1827,takiwayrariy,aeróbico ,0.846298953
+1828,takzu,tacso ,0.541333261
+1829,tallpa,camisa ,0.226460156
+1830,talpa,blusa ,0.541333261
+1831,tampu,posta ,0.315067349
+1832,tampul,desorden ,0.304253675
+1833,tampulyachay,conocimiento desordenado ,0.61629317
+1834,tanapay,ayudar- favor ,0.235898853
+1835,tantachi unancha,signo de agrupación ,0.421830965
+1836,tantachina,agrupar ,0.541333261
+1837,tantachipakta,asociativa ,0.541333261
+1838,tantachishka,conjunto ,0.736916117
+1839,tantachishka tantariy,unión de conjuntos ,0.901311231
+1840,tantachishkakunapa kutinchipaktachi,propiedades de la intersección ,0.817162534
+1841,tantachishkakunapa sami,clases de conjuntos ,0.82733992
+1842,tantachishkakunata paktachiy,complementación de conjuntos ,0.901311231
+1843,tantachishkakunata raki,partición de conjuntos ,0.175638164
+1844,tantachishkakunata rakiy,partición de conjuntos de conjuntos ,0.472746181
+1845,tantachishkakunata tukuyyachi,complementación de conjuntos ,0.901311231
+1846,tantachishkamanta anchuchi,diferencia de conjuntos ,0.901311231
+1847,tantachishkapa yapaypaktachikuna,propiedades de la unión o adición ,0.264397249
+1848,tantachishkata kutinkutinchi,conjunto potencia ,0.611885307
+1849,tantachishkata kutinkutinchiy,conjunto potencia ,0.611885307
+1850,tantachiy,agrupación- recoger ,0.090231205
+1851,tantachiy rurayri,unión de conjuntos ,0.901311231
+1852,tantachiy unancha,signo de agrupación ,0.421830965
+1853,tantachiyachay,unidad didáctica ,0.184437366
+1854,tantallalawsay,reino ,0.357917044
+1855,tantalli,panecillo- pan pequeño ,0.680791077
+1856,tantanakuy,organización ,0.541333261
+1857,tantari yachaypa yupay,número de la unidad ,0.089948237
+1858,tantarikillka,acta ,0.058688077
+1859,tantariku,subconjunto ,0.541333261
+1860,tantarimanta killka,acta ,0.058688077
+1861,tantarinakuy,asamblea ,0.833138765
+1862,tantariypa niki,orden del día ,0.759931466
+1863,tapuk shutiranti,pronombre interrogativo ,0.03429758
+1864,tapuk yuyay,oración interrogativa ,0.833820431
+1865,tapuy,preguntar ,0.299192893
+1866,tapuykutichina,entrevistar ,0.280323294
+1867,tapyaruna,mago ,0.541333261
+1868,tapyay,embrujar ,0.541333261
+1869,tarina,encontrar ,0.823239641
+1870,taripana,examen ,0.07108797
+1871,taripana,investigar ,0.152370935
+1872,taripapuk,juez ,0.11217791
+1873,taripay,averiguar ,0.755443931
+1874,taripayhapi,descubrir ,0.899284682
+1875,taririklla paktachik,complemento circunstancial ,0.921134634
+1876,tarpuna,sembrar ,0.249393139
+1877,tarpuy,sembrar ,0.249393139
+1878,tarpuymirariy,implementación ,0.541333261
+1879,taruka,venado ,0.202155141
+1880,taslla,elegante ,0.962619056
+1881,tatki,minuto ,0.446473842
+1882,tatki chumpiku,cinta métrica ,0.074446094
+1883,tatkikutinchi,múltiplo del metro ,0.702424177
+1884,tatkirakinchi,submúltiplo del metro ,0.702424177
+1885,tawa,cuadrado ,0.541333261
+1886,tawakunapa puchu,diferencia de cuadrados ,0.541333261
+1887,tawantin,precisión ,0.816312009
+1888,tawantinsuyu,imperio ,0.419048326
+1889,tawasampa,corona grande de plumas de guacamayo ,0.543742703
+1890,tawasuyu,puntos cardinales ,0.994514756
+1891,tawatatki,metro cuadrado ,0.702424177
+1892,tawayashka kullka,prisma cuadrangular ,0.901120596
+1893,tawka,mucho- bastante- montón ,0.541333261
+1894,tawka kawsay,pluricultural ,0.958418503
+1895,tawka kilkanancha kutinchichiy,factorización de polinomios en general ,0.064271826
+1896,tawka rikcha kutirik,factor común polinomio ,0.617149643
+1897,tawri,chocho ,0.835800266
+1898,tay,gol ,0.386300492
+1899,terrón,kurpa ,0.541333261
+1900,thuka,saliva ,0.006432539
+1901,tierra,allpa ,0.541333261
+1902,tierra blanca,yurak allpa ,0.541333261
+1903,tierra estéril,tsala allpa ,0.541333261
+1904,tierra fértil,alli allpa ,0.541333261
+1905,tierra negra,yana allpa ,0.020840295
+1906,tierra roja,puka allpa ,0.541333261
+1907,tikrak shimiki,sílaba inversa ,0.076080623
+1908,tikrana,volver ,0.75140838
+1909,tikratarpuy,reforestaciòn ,0.911370634
+1910,tikray,traducir- convertirse ,0.646452142
+1911,tiksi,base o básico ,0.569670017
+1912,tiksi yachaykuna,contenidos básicos ,0.613372731
+1913,tiksi yuyay,fundamentación ,0.541333261
+1914,tiksitupu,unidad de medida fundamental ,0.5204154
+1915,tiksiy,fundar ,0.541333261
+1916,tiksiyay mutsuykuna,servicios básicos ,0.557397958
+1917,tinkina,unir ,0.444525278
+1918,tinkirik yuyay,oración coordinada ,0.885353849
+1919,tinkuchik,concordancia ,0.916900574
+1920,titi,plomo ,0.251684948
+1921,titichaska,minerales ,0.745747963
+1922,titu,acrobacia ,0.968259631
+1923,tituyashka,gimnasia ,0.723353347
+1924,tiya mama,tía ,0.340643939
+1925,tiyak,existe ,0.575106695
+1926,tiyak chanikunata paktachik,balance situacional ,0.689115255
+1927,tiyak yupay,número natural ,0.378277334
+1928,tiyashkata rikuchik,balance de comprobación ,0.044278907
+1929,tiyay,posición ,0.475117587
+1930,tiyu yaya / tiyu tayta,tío ,0.244258037
+1931,tsawar,penco ,0.541333261
+1932,tsia,huevo de parásito- liendra ,0.443999892
+1933,tsiklla,recto ,0.541333261
+1934,tsiknina,odiar ,0.74860149
+1935,tsini,ortiga ,0.541333261
+1936,tsini kuru,larva ,0.013917054
+1937,tsunka,sorbete ,0.541333261
+1938,tsunkana,chupar: ,0.076453278
+1939,tukapu,prenda de gala de mujer ,0.557213643
+1940,tuku- putu-,tronco ,0.40014125
+1941,tukuchina- puchukana,consumir ,0.541333261
+1942,tukuchiy,conclusión ,0.215452035
+1943,tukuna,disfraz ,0.405479726
+1944,tukuraya,generalidades ,0.541333261
+1945,tukurik,finito ,0.392077534
+1946,tukurik tantachishka,conjunto finito ,0.543242273
+1947,tukurina,acabar- terminar ,0.433447529
+1948,tukuriy,fin ,0.564555024
+1949,tukushka,efecto ,0.471769937
+1950,tukuy hillaykuna,aparatos de medición ,0.06045014
+1951,tukuy shuti,nombre común ,0.488007421
+1952,tukuy yupaychi,números reales ,0.487380367
+1953,tukuyllikuna,generalidades ,0.541333261
+1954,tukuyta shukllayachik,globalización ,0.541333261
+1955,tukuyyashka yupay,número entero ,0.147515683
+1956,tukyana,erupcionar ,0.541333261
+1957,tukyay,explotar ,0.541333261
+1958,tullillak,invertebrado ,0.541333261
+1959,tullpu,color ,0.686385826
+1960,tullpukuna,colores ,0.897985005
+1961,tullpushka,teñido ,0.438912532
+1962,tullu,hueso ,0.341272951
+1963,tullupaki,fractura ,0.320244099
+1964,tulukancha,vivero ,0.98397911
+1965,tunkuri,esófago ,0.048467092
+1966,tupu,medida ,0.541333261
+1967,tupukamaychi,sistema de medida ,0.541333261
+1968,tupuna,medir ,0.233336459
+1969,tupuy,medida ,0.541333261
+1970,turi,hermano harmana a hermano ,0.283940741
+1971,turu,lodo ,0.423572846
+1972,turuwan makiruray pacha,período formativo ,0.303871182
+1973,tushuna,danzar ,0.241073214
+1974,tuta,noche ,0.825931588
+1975,tuta suyu,oeste ,0.820811313
+1976,tutamanta,madrugada ,0.421668398
+1977,tutamikuy,cenar ,0.894240649
+1978,tutayana,anochecer ,0.995688102
+1979,tutura,totora ,0.541333261
+1980,uchilla,pequeño ,0.112846679
+1981,uchilla killka,letra minúscula ,0.205312893
+1982,uchilla tatki,segundo ,0.491572151
+1983,uchillakillka,minúscula ,0.287557916
+1984,uchillayachishka yuyay,resumen ,0.467816271
+1985,uchillayachishka yuyay w,resumen ,0.467816271
+1986,uchu,ají ,0.608983681
+1987,uka,oca ,0.875225162
+1988,ukku,cuerpo humano ,0.490605969
+1989,ukkukara kuruta,cutáneo ,0.541333261
+1990,ukkukuyuchik,extremidad ,0.541333261
+1991,ukkukuyurikancha,motricidad ,0.541333261
+1992,ukkukuyuykamay,cultura física ,0.079552038
+1993,ukkunanchachiy,expresión corporal ,0.307987489
+1994,ukkupa kuskaritimuna,chakradel cuerpo humano ,0.490605969
+1995,ukkurupay,fiebre ,0.541333261
+1996,ukkuskayku,aparato ,0.267370753
+1997,ukkuyawri,órgano ,0.90257442
+1998,ukllana,abrazar ,0.303965286
+1999,ukllay,abrazar ,0.303965286
+2000,uksha,paja ,0.114729871
+2001,uku,dentro ,0.830614714
+2002,uku kushma,camiseta ,0.022533322
+2003,ukucha,ratón ,0.082465941
+2004,ukumari,oso ,0.26076821
+2005,ukunpuray,interrelación  ,0.766730399
+2006,ukururu,berro ,0.541333261
+2007,ukuyashka,cóncavo ,0.541333261
+2008,ulku,machoanimalesjh ,0.541333261
+2009,ullu,pene ,0.356541698
+2010,uma,cabeza ,0.204008677
+2011,uma ruka,dedo de la cabeza- anular ,0.060727539
+2012,uma tullu,cráneo ,0.084641631
+2013,umachi,engaño ,0.072479794
+2014,umachik,traidor- engañador ,0.024190743
+2015,umachiy,engañar ,0.029654749
+2016,umachuku,visera ,0.541333261
+2017,umamuskuy,fantasia ,0.64494602
+2018,umayarina,sensopercepción ,0.541333261
+2019,umayuyana,imaginar ,0.682066537
+2020,umayuyay,imaginacion ,0.844169068
+2021,umiña,cubo o exaedro ,0.236216845
+2022,umiñakunapa yapa-puchu,suma o diferencia de cubos perfectos ,0.641256485
+2023,umiñatatki,metro cúbico ,0.070656397
+2024,umutu,enano ,0.14329244
+2025,unaka,caramelo ,0.291213691
+2026,unanchashkata pakta rikuchik,sistema de numeración decimal ,0.09447374
+2027,unanchay,notación ,0.541333261
+2028,unayay,tardar ,0.443753503
+2029,unaypi shamuna pacha,futuro mediato ,0.541333261
+2030,unkuk,enfermo ,0.081779652
+2031,upa,mudo ,0.541333261
+2032,uphiyana,beber ,0.672949782
+2033,uray,abajo ,0.310938538
+2034,uray suyu,norte ,0.667416762
+2035,uraykuy,bajar ,0.454579015
+2036,urmana,caer ,0.23291648
+2037,urna ñutuku,cerebro ,0.12620937
+2038,urpi,tórtola ,0.541333261
+2039,uru,araña ,0.727922739
+2040,usa,piojo ,0.541333261
+2041,usaysapa kuskakuna,lugares con poderes ,0.718429082
+2042,ushay- atiy,poder ,0.738374629
+2043,ushay- ritimuna,energía ,0.795198072
+2044,ushaykamakunapash,poderes ,0.455027548
+2045,ushi,hija ,0.367966379
+2046,ushina- charina,adquirir ,0.544222525
+2047,ushu,burro ,0.061923147
+2048,ushuhama,nieta ,0.6950972
+2049,ushuta,alpargates ,0.541333261
+2050,utik,loco ,0.272566782
+2051,utikay,locura ,0.600013389
+2052,utka,rapido ,0.875299379
+2053,utkachiy,abreviar- hacer breve ,0.647682931
+2054,utku,hueco ,0.416769508
+2055,uyakuy,obedecer ,0.541333261
+2056,uyana,oír ,0.541333261
+2057,uyana,escuchar ,0.616369593
+2058,uyantin,consonante ,0.102113146
+2059,uyarichay,poner atencion ,0.736085773
+2060,uyarik,sonido ,0.837486716
+2061,uyarikancha yachay,fonología ,0.541333261
+2062,uyarikuy,ruido- bulla ,0.603282971
+2063,uyaywa,vocal ,0.541333261
+2064,uyaywak,sonido ,0.837486716
+2065,uyaywakancha yachay,fonología ,0.541333261
+2066,voz,unanchikrimay ,0.541333261
+2067,wacha,sábado ,0.541333261
+2068,wacha puncha,sábado ,0.541333261
+2069,wachana / pakarina,nacer ,0.434726299
+2070,wachariy / pakariy,nacimiento ,0.541333261
+2071,wachi,vector o rayo ,0.372224561
+2072,wachuchiy,verso ,0.101021217
+2073,waka,sagrado ,0.541333261
+2074,waka kuskakuna,lugares sagrados ,0.817690087
+2075,wakana,llorar ,0.303215473
+2076,wakarapuku,cuerno musical instrumento de viento hecho con un cuerno y que sirve a forma de trompeta ,0.02134242
+2077,wakayachina,conservar ,0.595719863
+2078,wakaychina,guardar ,0.721648527
+2079,wakcha,pobre ,0.192600654
+2080,wakchi,flecha- lanza- saeta- dardo ,0.811200676
+2081,waki,sociedad ,0.576984311
+2082,waki kawsaymantawankuri,organización socio cultural ,0.801495603
+2083,wakichina,preservar ,0.836685306
+2084,wakikamay,sociología ,0.086381516
+2085,wakimpi,alguna vez ,0.564379608
+2086,wakin,alguno ,0.676094382
+2087,wakiy,compartir ,0.867835474
+2088,waklishka,dañado- podrido ,0.067832911
+2089,waklli,crisis ,0.308156658
+2090,wakllichik,deterioro ,0.419952538
+2091,wakllichina,agravio- danar ,0.111225198
+2092,wakra,ganado ,0.416680409
+2093,waksa,lagartija ,0.062837423
+2094,waksi,gas ,0.060794595
+2095,waksisapa,gaseoso ,0.541333261
+2096,waktana,golpe ,0.230445806
+2097,waktanakuy,luchar ,0.379928693
+2098,walaku,rana comestible ,0.147554188
+2099,walinyana,balancear ,0.541333261
+2100,wallinku,conejo ,0.857861545
+2101,wallka,collar ,0.171900319
+2102,wallpa,forma- formación ,0.576728334
+2103,wallpachi yuyay,teoría creacionista ,0.186522726
+2104,wallpana,crear- inventar ,0.101416524
+2105,wallpari,invento- creación ,0.71331976
+2106,wallpay,estructura ,0.897817841
+2107,wallpaykamay,filosofía ,0.601526346
+2108,walpana,crear- inventar ,0.101416524
+2109,waltaku,pantalón de tela ,0.246808047
+2110,waman,gavilán ,0.541333261
+2111,wamintsi,rosado ,0.890985146
+2112,wampra,joven- adolescente varón ,0.36993173
+2113,wampuk,barco- lancha ,0.895852059
+2114,wampuk rikutirikancha,puerto marítimo ,0.986414315
+2115,wampulli,bote- canoa- velero- barca pequeña ,0.082863787
+2116,wampuna,nadar ,0.819397897
+2117,wampuy,natación ,0.541333261
+2118,wampuypi shuwakkuna,piratas- corsario ,0.796101029
+2119,wamra,púber ,0.381436266
+2120,wanachiy,castigar ,0.260229688
+2121,wanchiy,matar ,0.140178857
+2122,wankuri,organización ,0.541333261
+2123,wantu,floripondio ,0.541333261
+2124,wanu,fertilizante natural ,0.71501595
+2125,wanyari,evaporación ,0.541333261
+2126,wara,pantalón de lana ,0.161382129
+2127,warakay,lanzamiento ,0.541333261
+2128,waranka,mil- 1000 ,0.541333261
+2129,waranka piti,tanto por mil ,0.476672999
+2130,warankakri,milésimo ,0.866222514
+2131,warankaku,kilogramo ,0.541333261
+2132,warankawataychi,milenio ,0.281000708
+2133,waricha/pampawarmi,prostituta ,0.541333261
+2134,warichakay,prostitucion ,0.541333261
+2135,warichariy,locura ,0.600013389
+2136,warmi,mujer- esposa ,0.557819223
+2137,warmi wara,blusa ,0.541333261
+2138,warmipurakuyay,lesbianismo ,0.088209941
+2139,warunruk- chachu,astro ,0.844820746
+2140,washa,espalda ,0.354048502
+2141,washa tullu,columna vertebral- espinazo ,0.338665917
+2142,washa tullu ñutuku,médula espinal ,0.281543345
+2143,washa ñutuku,cerebelo ,0.068759491
+2144,washarimay,murmuración- crítica ,0.079604142
+2145,washatarimay,murmurar ,0.541333261
+2146,wasi,casa ,0.647163397
+2147,wasi allpa rantimanta,bienes y raíces ,0.180217209
+2148,wasiruraykamay,arquitectura ,0.98415165
+2149,waska,soga ,0.541333261
+2150,waskariklla,ritmo ,0.71197564
+2151,wasra,vino ,0.564340949
+2152,wata,año ,0.541333261
+2153,watapacha,calendario ,0.635571003
+2154,watay wasi,prisión ,0.313341313
+2155,watayuk,edad ,0.400347404
+2156,watu,cadena ,0.224713387
+2157,watuchina- imashi,adivinar ,0.25521465
+2158,wawa,niño ,0.420642368
+2159,wawa chumpi,faja-delgada ,0.541333261
+2160,wawa kullki kamachik,regla de interés simple ,0.514874112
+2161,wawa mama,placenta ,0.040704767
+2162,wawa ruka,dedo meñique ,0.044958058
+2163,wawakay,niñez ,0.881235517
+2164,wawakullki,interés ,0.594282695
+2165,wawchiy,influencia ,0.696886606
+2166,wawki,hermano entre hermanos ,0.342328723
+2167,wawkikay,hermandad entre hombres ,0.47586676
+2168,wayay,oxígeno ,0.637531615
+2169,waychi,plomo ,0.251684948
+2170,wayku,quebrada- barranco ,0.591558284
+2171,waykuhaskancha,relieve ,0.920757788
+2172,waykukaskancha,relieve ,0.920757788
+2173,waylla,verde ,0.893173141
+2174,wayllamkay,obrajes ,0.541333261
+2175,waylluy,ternura ,0.732566123
+2176,wayna,joven- amante ,0.830360118
+2177,wayra,aire- viento ,0.703572257
+2178,wayrakata- wayramaytu,atmósfera ,0.908600148
+2179,wayrayay,volatilidad ,0.541333261
+2180,wayru,octubre ,0.377741593
+2181,wayru killa,octubre ,0.377741593
+2182,wayta,clavel ,0.541333261
+2183,wañuna,morir ,0.300792397
+2184,wañuy,muerte ,0.305361164
+2185,wañuykamachiy,ley de inquisición ,0.180224904
+2186,wichay,subida- cuesta ,0.619665074
+2187,wichay suyu,sur ,0.720268132
+2188,wichayana,ascender ,0.869137006
+2189,wichisuni,alto ,0.705183645
+2190,wichkachik,paréntesis ,0.635671652
+2191,wichkak chupa,comilla ,0.541333261
+2192,wichkak chupaw,comilla ,0.541333261
+2193,wichkashka,encerrado ,0.225366214
+2194,wika,escremento ,0.541333261
+2195,wikar,cintura ,0.183528957
+2196,wiki,lágrima ,0.541333261
+2197,wikka mayu,sumo saserdote-shyry ,0.541333261
+2198,wiksa,barriga- vientre ,0.1314986
+2199,wikuriy,flexibilidad ,0.541333261
+2200,wilka,ritos ,0.875203905
+2201,wilkana,rito ,0.853122542
+2202,wilkana- muchana,adorar- venerar ,0.954313713
+2203,wilkay,sagrado ,0.541333261
+2204,willachik,noticia ,0.199553858
+2205,willak hillay,medio de comunicación ,0.617963984
+2206,willak pirkaw,periódico mural ,0.799759879
+2207,willak yuyay,oración enunciativa ,0.833820431
+2208,willakpirka,periódico mural ,0.799759879
+2209,willana,avisar- informar ,0.255311866
+2210,willayhillay,medio de comunicación ,0.617963984
+2211,willaykancha,medios de comunicación ,0.478580991
+2212,williku,espermatozoide ,0.541333261
+2213,wilyay- lumyay,llamarada ,0.216948499
+2214,winkuchikkuna,paréntesis ,0.635671652
+2215,winkuk,llaves ,0.101284338
+2216,wirakucha,rubicundo- pelirojo- rubio ,0.150017719
+2217,wisiyay,crema ,0.702191669
+2218,wisnu,materia ,0.483464904
+2219,wisya,crema ,0.702191669
+2220,witikwitik,tambalear ,0.541333261
+2221,witsyayay,subirse ,0.782362595
+2222,wiwakamay,ganadería ,0.995994363
+2223,wiwakuna,animales ,0.55305638
+2224,wiwika,oveja ,0.541333261
+2225,wiwika- llama,oveja ,0.541333261
+2226,wiña,generación ,0.541333261
+2227,wiñachina,criar ,0.108094218
+2228,wiñachishka shimi,neologismo ,0.541333261
+2229,wiñakukllachak k,almácigos ,0.541333261
+2230,wiñana,crecer ,0.402278496
+2231,wiñari,desarrollo ,0.634951564
+2232,wiñarikpukyu,fuente- vertiente ,0.541333261
+2233,wiñarina,desarrollar ,0.659239652
+2234,wiñay,siempre ,0.804826818
+2235,wiñay kawsay kallaripi rurayta kamay,arqueología ,0.947300187
+2236,wiñay kawsaykallaripi ruraytakamay,arqueología ,0.947300187
+2237,wiñaykawsay,historia ,0.885439821
+2238,wiñaykawsay imakuna,hechos históricos ,0.941755902
+2239,wiñaykawsay kallariy,prehistoria ,0.242575044
+2240,wiñaykaysay kallari,inicio de la historia prehistoria ,0.398136037
+2241,yachakuna,aprender ,0.629756957
+2242,yachana,saber ,0.39103484
+2243,yachana wasi,escuela ,0.245082332
+2244,yachapayay,dramatización  ,0.541333261
+2245,yachapayay w,dramatización ,0.541333261
+2246,yachariy,estar acostumbrado ,0.731395711
+2247,yachay,ciencia- educación ,0.159103787
+2248,yachay pampa,area ,0.541333261
+2249,yachay ñan,proceso metodológico ,0.341972788
+2250,yachayay,enterarse ,0.656953133
+2251,yachaykamachik,ley de educación ,0.068104256
+2252,yachaykancha,área ,0.541333261
+2253,yachaykuna,sabiduría ,0.678068637
+2254,yachaypa hillay,material didáctico ,0.847302889
+2255,yachaypak hillay,recurso didáctico ,0.704736122
+2256,yachayruray,práctica ,0.541333261
+2257,yachayshuti,título ,0.541333261
+2258,yachayta taripana,dominio del conocimiento ,0.282314117
+2259,yachayta taripay,dominio del conocimiento ,0.282314117
+2260,yachayta wallpay,creación del conocimiento ,0.691900525
+2261,yachayta willana,socialización del conocimiento ,0.575177921
+2262,yachayta wiñachiy,creación del conocimiento ,0.691900525
+2263,yachaywa,tema ,0.50068985
+2264,yachaywa w,tema ,0.50068985
+2265,yachaywan rurana,aplicación del conocimiento ,0.575177921
+2266,yachayyuyay,teoría ,0.186522726
+2267,yachayñan,metodología ,0.308966136
+2268,yaksina,fundir ,0.240742036
+2269,yaksishka,fundido ,0.541333261
+2270,yaku,agua ,0.576205837
+2271,yaku ishpa,orina ,0.196473119
+2272,yaku larka,canal de riego ,0.38061894
+2273,yaku shunku,hígado ,0.210396461
+2274,yakuhampik chuyayachik yachuchik,cloración del agua ,0.576205837
+2275,yakukamay,hidrografía ,0.541333261
+2276,yakumuyuyallpa,isla tierra rodeade de agua ,0.808971174
+2277,yakushushuy,decantación ,0.541333261
+2278,yakuyachik,disolvente ,0.110566323
+2279,yakuyachina,disolver ,0.541333261
+2280,yakuyachiy,derretir ,0.210866378
+2281,yakuyakkuri,golfo ,0.804981394
+2282,yakuyashka,líquido ,0.260225893
+2283,yakwallpa,anfibios ,0.048547978
+2284,yalli paktachik,complemento directo ,0.876662767
+2285,yalli paktachik yp,complemento directo ,0.876662767
+2286,yallichawpiyak,moda ,0.768006684
+2287,yallilutsayak,proporción geométrica o directa ,0.739454671
+2288,yallimanya,cateto mayor ,0.572126625
+2289,yallishka,mayor que ,0.572126625
+2290,yallishka pacha,tiempo pasado ,0.685698779
+2291,yalliyak pakiyupay,fracción inpropia ,0.212407098
+2292,yana sara,maíz negro ,0.428690407
+2293,yana shunku,riñón ,0.142445059
+2294,yana yana,negro intenso ,0.563945929
+2295,yanakuna,servidumbre ,0.541333261
+2296,yanantina- kutuna- hatun hallmana,aporcar ,0.541333261
+2297,yanapak wasi,agencia de desarrollo ,0.333961325
+2298,yanapak wasikuna,instituciones ,0.541333261
+2299,yanapana,ayudar ,0.465649031
+2300,yanapanka,servicio ,0.579487718
+2301,yanapay,servicio- servir ,0.541333261
+2302,yanapayana,solidarizar ,0.010348459
+2303,yanapayaymanta,solidadaridad ,0.541333261
+2304,yankakapak,politiquero ,0.262403596
+2305,yankakichuna,invadir ,0.307138304
+2306,yankakichuy,invasión ,0.274554469
+2307,yankichik,agentes ,0.153197462
+2308,yankina,modificar ,0.541333261
+2309,yankina- shukmanyachina,cambiar ,0.322132934
+2310,yankinachik,agente modificador ,0.254329478
+2311,yankiy,cambio ,0.322132934
+2312,yanuna,cocinar ,0.751670934
+2313,yanuna uku,cocina ,0.751670934
+2314,yapa tantachiy,conjunto unión ,0.736916117
+2315,yapakullki,monto ,0.179955288
+2316,yapakullkina,usura ,0.006821087
+2317,yapakutinchiklla,frecuencia acumulada ,0.43591483
+2318,yapalutsay,proporcionalidad directa ,0.577917181
+2319,yaparikkuna,sumandos ,0.541333261
+2320,yapatantachi,unión de conjuntos ,0.901311231
+2321,yapuk,arador ,0.364888902
+2322,yari,sentido ,0.623306975
+2323,yariyachina,2percibir ,0.74753398
+2324,yarkay,hambre ,0.348762491
+2325,yawar,sangre ,0.371679721
+2326,yawar ayllunikiyashka,grados de consanguinidad ,0.129889245
+2327,yawar muyuri,circulación de sangre ,0.371679721
+2328,yawarchakruri,mestizaje ,0.541333261
+2329,yawarmuyuriy,circulatorio sanguíneo ,0.084610172
+2330,yawarpuriy,presión arterial ,0.272997797
+2331,yawati,tortuga ,0.387846414
+2332,yawatisuyu,región insular galápagos ,0.104611718
+2333,yawri,aguja ,0.373525861
+2334,yaya,padre ,0.445782878
+2335,yaya / tayta,papá- padre ,0.445782878
+2336,yaykuchiy- satiy,introducción física ,0.065528593
+2337,yaykuna,entrar ,0.618883961
+2338,yukuna- yumana,aparear ,0.541333261
+2339,yuma,semen ,0.227395007
+2340,yumariy,unirse sexualmente ,0.217259704
+2341,yumay,semen ,0.227395007
+2342,yupachay,cortesía ,0.681903521
+2343,yupachi,conteo ,0.218069452
+2344,yupana,contar ,0.589721397
+2345,yupay chani,valor absoluto o numérico ,0.874273446
+2346,yupaychana,agradecer ,0.541333261
+2347,yupaychani,gracias ,0.44179094
+2348,yupaykamay,matemática ,0.541333261
+2349,yupaykamay hillaykuna,materiales didácticos de la matemática ,0.906682163
+2350,yupaykamaychi,sistema numérico ,0.924972738
+2351,yupaykamaychi yuyay,pensamiento lógico matemático ,0.369681822
+2352,yupaykamayuk,matemático ,0.541333261
+2353,yupaykuna,los números ,0.132855839
+2354,yupaykuska,recta numérica ,0.089384004
+2355,yupaylli,cuenta bancaria ,0.172061097
+2356,yupaymillka,esquema numérico ,0.75550455
+2357,yupaynikichik,calculadora ,0.114422612
+2358,yupaypurachi,razón ,0.20840013
+2359,yupayrurayri,operación numérica o aritmética ,0.074359365
+2360,yura,planta ,0.626419181
+2361,yurak,blanco ,0.541333261
+2362,yurak sara,maíz blanco ,0.541333261
+2363,yurak shunku,pulmón ,0.541333261
+2364,yurakamak,forestal ,0.221074899
+2365,yurakuna,plantas ,0.948502951
+2366,yutay,influencia ,0.696886606
+2367,yuyakillkalla,carta ,0.823456384
+2368,yuyakyashka,vejez ,0.285208212
+2369,yuyana,pensar ,0.399389822
+2370,yuyarikkuna,reflexiones ,0.651124785
+2371,yuyarina,reflexionar ,0.728828338
+2372,yuyasha,cautela ,0.683066708
+2373,yuyay,pensamieto ,0.541333261
+2374,yuyay awariy,sintaxis ,0.262367855
+2375,yuyay kaspi,línea imaginaria ,0.608147423
+2376,yuyay paktay,unidad de criterio ,0.323662354
+2377,yuyay rurayri,problemas razonados  ,0.289746346
+2378,yuyaychipukllay,rompecabezas ,0.541333261
+2379,yuyaynikik,software ,0.166627596
+2380,yuyaynina,opinar ,0.455398301
+2381,yuyaypaktana,concertar ,0.329150458
+2382,yuyayrikuchik,determinación o definición ,0.425511471
+2383,yuyayrina,concentrar ,0.689459968
+2384,yuyayrina w,concentrar mental ,0.472244281
+2385,yuyu / panra,nabo ,0.167983968
+2386,zampu,sambo- calabaza ,0.233587416
+2387,zirmaputulli,bateria- pila ,0.541333261
+2388,ñachu,ya está- ya es ,0.646006282
+2389,ñakariy,pasión de placer ,0.951713942
+2390,ñankamu,guía ,0.878659469
+2391,ñankamu w,guía didáctica ,0.878659469
+2392,ñapash shamuna pacha,futuro inmediato ,0.541333261
+2393,ñawchina,auxiliar- cooperar- influenciar- contribuir ,0.29998378
+2394,ñawchina- yanapana,auxiliar ,0.140120374
+2395,ñawi,cara- rostro ,0.541333261
+2396,ñawi chakata,glándula pineal ,0.541333261
+2397,ñawi chichu,mejilla ,0.122522546
+2398,ñawi lulun,ojo ,0.491828053
+2399,ñawi millma,pestaña ,0.164746803
+2400,ñawi pata millma,ceja ,0.159766547
+2401,ñawirina- killkakatina,leer ,0.531700466
+2402,ñawirina- killkakatina taller b,leer ,0.531700466
+2403,ñawpa,delante tiempo: ,0.501778233
+2404,ñawpa kawsay pacha,eras antiguas ,0.928604872
+2405,ñawpa pachak-watakuna,largos siglos ,0.734936936
+2406,ñawpa uma tullu,hueso frontal del cráneo ,0.089002463
+2407,ñawpak,principales ,0.885077894
+2408,ñawpakawsay imarikuchi kunakamay,vestigios arqueológicos ,0.996370313
+2409,ñawpakawsayimarikuchi kunakamay,vestigios arqueológicos ,0.996370313
+2410,ñawpana,adelantar ,0.325000706
+2411,ñawpanchina,promover ,0.2025381
+2412,ñawpanchina w,promover ,0.2025381
+2413,ñawpapacha,paleolítico ,0.301435106
+2414,ñawparimay,mito- cuento- leyenda ,0.557252432
+2415,ñaña,hermana entre hermanas ,0.259843695
+2416,ñañakay,hermandad entre mujeres ,0.515291893
+2417,ñañu,delgado ,0.135936245
+2418,ñañu chunchulli,intestino delgado ,0.056791135
+2419,ñuka,yo- mio- mia ,0.316267021
+2420,ñukanchik,nosotras - nosotros ,0.420298392
+2421,ñukanchikpa,nuestro- nuestra ,0.749559549
+2422,ñukapa yuyaymanta,de mi consideración ,0.269800147
+2423,ñukik,sensual ,0.754630303
+2424,ñunu,leche ,0.429923213
+2425,ñutalla,sutil ,0.617408253
+2426,ñutku,seso ,0.774520213
+2427,ñutu- amuk,suave- blando ,0.541333261
+2428,ñutuñachina,ablandar ,0.541333261
+2429,akllana,"Elegir, escoger, seleccionar",0.797940898
+2430,allichina,"areglar, componer, modificar, adornar decorar, mejorar",0.316440196
+2431,allimanta,"Despacio, con cuidado, poco a poco, cuidadosamente",0.896287043
+2432,amawta,"sabio, científico",0.541333261
+2433,anchurina,"Retirar, apartarse, quitarse",0.872695456
+2434,antawa,"carro, vehículo",0.261977134
+2435,antisuyu,región amazónica,0.204737935
+2436,apunchik,"wasi	iglesia, templo",0.989337892
+2437,apana,llevar,0.696975801
+2438,abya,"yala	Continente Americano",0.698709377
+2439,araw,lora  ,0.028052466
+2440,ari,si,0.541333261
+2441,arawikuk,poeta,0.96510586
+2442,ashtawan,"mas, además",0.693999126
+2443,ayllushuti,Apellido,0.259843108
+2444,chaki,"kati	Rastro, huella, pisada",0.524117127
+2445,chapak,"vigilante, policía",0.242874132
+2446,chapana,"Espiar, mirar, obsevar",0.938544814
+2447,charina,"sujetar, sostener, tener",0.242207689
+2448,chaskina,"recibir, aceptar, admitir",0.290817187
+2449,chawpi,"Mitad, medio",0.513200137
+2450,chayrayku,"Por eso, por ello",0.46739232
+2451,chawpina," 	dividir, partir en mitades",0.262299632
+2452,chayshina,"asi, de esta manera",0.461848178
+2453,chawsirina,Sacudir,0.150901763
+2454,chay,"eso, esa, ese",0.541333261
+2455,chaymanta,"De ahí, después",0.280211796
+2456,chikan,"aparte, distinto,ajeno",0.646067415
+2457,charak,"todavía, aun, sin",0.320272982
+2458,chikanyachina,"clasificar,separar, apartar, diferenciar",0.192245763
+2459,chiki," mal augurio,desgracia",0.075094542
+2460,chiknina,"Despreciar, odiar,aborrecer",0.45314919
+2461,chimpa,"al otro lado, al frente",0.71921118
+2462,chimpapurana,"carear, aclarar, rendir cuentas, confrontar ideas",0.042596406
+2463,chimpana,cruzar,0.891332836
+2464,chinkarina,perderse,0.972816486
+2465,chukririna,"lastimarse, herirse",0.088072938
+2466,chunllayana,"Poner, colocar , ubicar Callarse, silenciar",0.017764078
+2467,churana,"Estirar.halar, extender",0.541333261
+2468,chutana,"Limpio, aguado",0.179302986
+2469,chuya,tio,0.244258037
+2470,hachi,vamos,0.676114384
+2471,haku,"	collar de semillas, banda",0.324551428
+2472,hallinka,Hamchi  afrecho,0.541333261
+2473,hampi,"remedio, medicina",0.193611166
+2474,hapina,"coger, apresar",0.136156222
+2475,hampi,"wasi	Hospital, centro de salud",0.857136659
+2476,hanpina,curar,0.290568336
+2477,hamuktana,"pensar, comprender, razonar, meditar, reflexionar, entender",0.786627621
+2478,hatarina,"levantarse, alsarse,ponerse de pie",0.623761652
+2479,hatun,"Inmenso, amplio, grande",0.982268795
+2480,hawina,"pintar, manchar",0.114737474
+2481,hawa,"Arriba, alto, afuera",0.859583623
+2482,hayak,amargo,0.372213362
+2483,hiki," 	Saltamontes",0.424149558
+2484,hillay,"Hierro, herramienta",0.128265992
+2485,hukipuna,silvar,0.541333261
+2486,huku,"Húmedo, mojado",0.327587248
+2487,humpi,"sudor, transpiración",0.367657808
+2488,hunta,"lleno,satisfecho, entero",0.962550008
+2489,huktu,"hueco, hoyo, agujero, cueva",0.166006265
+2490,huntana,"llenarse, inundarse",0.253498921
+2491,hunu,diez  mil,0.347548686
+2492,illak,"cero, vacio",0.543373173
+2493,illana,"no existir, viajar, ausentarse",0.032776988
+2494,ima,Que,0.541333261
+2495,imamanta,por que,0.541333261
+2496,inlli,"tibio, caliente",0.624520757
+2497,ishkuna,Desgranar,0.541333261
+2498,iñiña,"testimoniar, creer, tener fe",0.428741818
+2499,ishkaytin,"ambos pareja , par",0.838653323
+2500,iska,Fosforos,0.541333261
+2501,kacharina,"soltar, safar, permitir",0.114602348
+2502,kachana,"Enviar, mandar",0.373193683
+2503,kakuna,"frotar, fregar, sobar",0.002182087
+2504,kallari,"inicio, comienzo , principio",0.61378546
+2505,kamachina,Aconsejar,0.541333261
+2506,kallarina,"Comenzar, iniciar, principiar, empezar",0.353350274
+2507,kamachiy,"Ley, reglamento, articulo",0.038051606
+2508,kamari,"Regaalo, ofrenda",0.866530391
+2509,kallpana,"correr, trotar",0.9447286
+2510,kamana,"Probar, saborear",0.95323073
+2511,kamana,competir,0.307933184
+2512,kankik,cadera,0.010337106
+2513,kamchana,tostar,0.6742742
+2514,kamina,insultar,0.024373619
+2515,kapina," 	Ordeñar, exprimir",0.156910532
+2516,karkayana,ensuciarse,0.083719094
+2517,karpa,"alejarse cubierta grande, toldo",0.928499827
+2518,karana,"brindar, convidar,servir, dar de comer",0.111378826
+2519,kasilla,"Quieto, trankilo, pacifico, sereno",0.804877981
+2520,katina,seguir,0.541333261
+2521,katichina,"resembrar, hacer seguir",0.501709948
+2522,kawsak,"ser vivo, viviente",0.886639297
+2523,kawina,remo,0.967820778
+2524,kawsay, vida,0.563775792
+2525,kawirina,revolcarse,0.018656835
+2526,kaya,"mañana, el dia siguiente",0.294336306
+2527,kikin,"mismo, propio, verdadero",0.628211298
+2528,kayllayana,acercarse,0.888571406
+2529,kichuna,Quitar,0.138778922
+2530,killka,letra,0.283850492
+2531,kinku,curva,0.388389656
+2532,killkatina,leer,0.531700466
+2533,killkana,escribir,0.378546577
+2534,killpana,"tapar, cubrir, ocultar",0.061364784
+2535,kinray,horizontal,0.541333261
+2536,kimina,"acercar, arrimar, apegar",0.064494758
+2537,kipa,"despues, acontinuacion, seguidamente",0.011133627
+2538,kishpichina,"perdonar, disculpar, liberar",0.154457528
+2539,kishpirina,"salvarse, liberarse",0.197651122
+2540,kitilli,Parroquia,0.925416935
+2541,kiwina,Liciar. Tocer,0.541333261
+2542,kuchu,ángulo,0.908342347
+2543,kunan,"ahora, hoy, actual",0.53641655
+2544,kunuk,"caliente, abrigado",0.192664023
+2545,kupa,basura,0.062315215
+2546,kushpana,"saltar, brincar",0.605075123
+2547,kuska,"puesto, lugar, dirrrecion, sitio",0.696797368
+2548,kutipana,contestar,0.179042644
+2549,lapuna,doblar,0.121140912
+2550,llakina,"s ufrir, lamentar, apenar,tener pena",0.552272303
+2551,llakirina,"entristecerse, afligirse, tener pena",0.849804455
+2552,llaki,"dolor, sufrimiento, pena, amargura",0.163872304
+2553,llaktana,regresar al lugar de origen,0.730856516
+2554,llantu,sombra,0.813616612
+2555,llankana,"tocar, manosear, palpar",0.707292469
+2556,llampu,"totalidad, todos",0.589030582
+2557,llashak,pesado,0.124230107
+2558,llatan,Desnudo ,0.39244549
+2559,llawana, lamer,0.541333261
+2560,makiwatana,"pulsera, manillas",0.027664921
+2561,manachu,"no es cierto, es verdad",0.113570648
+2562,manarak,Todavía no,0.170569481
+2563,manchachina,"espantar, asustar, hacer tener miedo",0.105068193
+2564,manchanayana,"miedo, espanto, susto",0.171236925
+2565,mañana,"Pedir, solicitar, pedir prestado",0.498806681
+2566,may,"muy, mucho, exageración",0.933933127
+2567,mirachina,"Multiplicar, acrecentar",0.541333261
+2568,mishana,"Competir, ganar",0.179432261
+2569,ninanta,"Rapidísimo, veloz",0.931972013
+2570,ñaka,antes,0.541333261
+2571,ñakalla,"recién, hace poko",0.501709948
+2572,ñawpa,"antiguo, remoto, adelnate",0.174649592
+2573,ñalla,"Casi, ya mismo, enseguida",0.770576646
+2574,ñan,"camino, sendero, via",0.650089376
+2575,pacha,"mundo, espacio, naturaleza, ecosistema",0.984191828
+2576,pakana,"ocultar, esconder",0.125754784
+2577,pachamama,"naturaleza, hábitat, medio ambiente",0.910371689
+2578,paktachina,"igualar, completar",0.783195439
+2579,paktalla,Mediano,0.753228212
+2580,paktamuna,llegar,0.694729402
+2581,paktana,Alcanzar,0.541333261
+2582,pallana,"cosechar, recoger granos",0.388350239
+2583,pankalla,"agil, veloz, liviano",0.957489044
+2584,pantay,"Error, equivocación, confusión",0.176482374
+2585,pantana,"Errar, equivocar, confundir",0.283524471
+2586,panpa,"suelo, llanura, valle",0.894832331
+2587,pampana,"enterrar, inhumar",0.312049316
+2588,pichana,"barrer, limpiar",0.148885204
+2589,pinkay,"Vergüenza, rubor, recelo",0.155510808
+2590,pinkana,"avergonzarse, ruborizarse",0.130377061
+2591,pinkulllu,flauta ,0.207527699
+2592,pillpintu,Mariposa,0.641152229
+2593,piñarina," Enojarse, encapricharse",0.139592065
+2594,pirka,"pared, muro",0.221791047
+2595,pishi,poko escaso,0.541333261
+2596,puchu,"Sobra, resto",0.780673098
+2597,puchukay,ultimo,0.524374592
+2598,pukuna,bodoquera,0.541333261
+2599,pukuna,s oplar,0.541333261
+2600,pukyu,"vertiente, pozo, manantial",0.041327225
+2601,punkina,"hincharse, inflamarse",0.014254149
+2602,pullu,Tronco seco,0.360898101
+2603,punchantin,"diariamente, a diario",0.640280867
+2604,pushana,"guiar, dirigir, conducir",0.258788261
+2605,purina,"Caminar, andar",0.971628026
+2606,pusku,"espuma, fermento, levadura",0.41906224
+2607,puskuyana,"Agriarse, hacerse agrio",0.386453107
+2608,pushak,"Presidente, líder, gobernante",0.288847026
+2609,puyu,"Nube, niebla, neblina",0.95021874
+2610,rantina,"Comprar, intercambiar",0.557752259
+2611,rakina,"distribuir, dividir",0.669453674
+2612,rimanakuna,dialogar,0.428535352
+2613,richak,"idéntico, igual, semejanza",0.476859571
+2614,rimana,"Hablar, conversar",0.583709171
+2615,rimay,"palabra, expresión",0.592425731
+2616,rikcharina,despertarse,0.32832779
+2617,riksina,conocer,0.952360652
+2618,rikuchina,"mostrar, indicar, señalar",0.285693152
+2619,rikurina," 	asomarse, aparecerse, presentarse",0.049480418
+2620,rikuna,"Ver, mirar,observar",0.855922979
+2621,rumiyana,petrificarse,0.541333261
+2622,rurana,"hacer, realizar, trabajar",0.501709948
+2623,sakina,"dejar, abandonar",0.585729408
+2624,samarin,"calmarse, cesarse",0.541333261
+2625,samay,"respiración, aire, aliento",0.795104697
+2626,samii,"Clase, variedad",0.878411079
+2627,sampa,"débil, suave, peresozo, cobarde",0.392460694
+2628,sampayana,"Cansarse, fatigarse, agotarse",0.894302917
+2629,sarun,"pasado, antes, hace tiempo",0.657787057
+2630,sasi,"Ayuno, dieta",0.3643116
+2631,sikana,"montar, subir, ascender",0.909477934
+2632,sawarina,"casarse, contraer matrimonio",0.128211532
+2633,sayri," 	Tabaco, cigarrilo",0.063501688
+2634,shinchi,"duro, fuerte, robusto",0.421698268
+2635,sirik,"kaspi  	Línea horizontal",0.294496503
+2636,sisa,"pacha  	primavera",0.94785014
+2637,sipina,"ajustar, estrangular, ahorcar",0.082630307
+2638,sipu,arruga,0.10642984
+2639,supay,"Espíritu, ser mitico",0.913549381
+2640,surkuna,Sacar,0.724539185
+2641,suyu,región,0.80450387
+2642,suni,"Largo, extenso",0.928628109
+2643,shayak,Vertical,0.541333261
+2644,shayarina,"detenerse, pararse",0.961644487
+2645,shamuk,"Futuro, venidero, lo que vendrá",0.564340949
+2646,shimi,"chinkachina	Delirar",0.962048781
+2647,shimiyuk,"kamu	diccionario",0.351208626
+2648,shilinkuk,travieso,0.541333261
+2649,shilinkuna,fastidiar,0.030552342
+2650,shinallatak,Pero,0.56903703
+2651,shimi,"Idioma, lengua articulado",0.066678394
+2652,shinami,por supuesto,0.562151616
+2653,shinapash,"Pero, de todas maneras",0.480469723
+2654,shinayka,por su puesto,0.447104965
+2655,shukarina,Atrancar,0.541333261
+2656,shuklla,único,0.725751658
+2657,shuturina,"filtrar, gotear, ",0.181071445
+2658,shutuna,chorrear mojarse,0.346455387
+2659,shuyana,"Esperar, aguardar",0.446156607
+2660,shuyu,"Dibujo, cuadro",0.092342915
+2661,takana,"machacar, pedacear, martillar",0.015038536
+2662,takarina,"rozarse, golpearse",0.016156587
+2663,taki,canción,0.541333261
+2664,takina,Entonar,0.089251595
+2665,tantachiy,"Agrupación, unión",0.541333261
+2666,tantanakuy,"reunión, asamblea, congreso",0.88058314
+2667,tantana,"recolectar, juntar",0.228835772
+2668,tapuna,"preguntar, averiguar",0.558140217
+2669,tapia,mal augurio,0.180387053
+2670,taripay,examen,0.07108797
+2671,tarina,"encontrar, hallar",0.811868907
+2672,tawka,"algunos, bastante",0.758470465
+2673,tikrachina,"contestar, responder",0.190753735
+2674,tikramuna,"retornar, regresar",0.595200583
+2675,tinkina,"apegar, unir, juntar",0.021992284
+2676,tiyana,"haber, existir, estar",0.471799514
+2677,tiyarina,"sentarse, tomar asiento",0.703575638
+2678,tukuchina,"terminar, acabar, finalizar",0.433447529
+2679,tukuri,culminación,0.541333261
+2680,tukurishka,"concluido, terminado, finalizado",0.233564527
+2681,tuksina,"clavar, punzar",0.047779873
+2682,tukurina,"terminarse, acabarse",0.541333261
+2683,tukuy,"todo, todos, entero",0.777645611
+2684,tukuna,"volverse, transformarse, convertirse",0.748111407
+2685,tukuymashna,absolutamente todo,0.853608676
+2686,tullpu,"color, tintura, pintura",0.088953919
+2687,tularina,derrumbarse,0.899174261
+2688,tulu,"saquillo, bolso",0.331951734
+2689,tunkuri,"garganta, esófago",0.026241993
+2690,tutamanta,"la madrugada, la mañana",0.44992224
+2691,tsala,"flaco, delgado, desnutrido, palido",0.015541929
+2692,tsunkana,"chupar,absorver, succionar",0.003996491
+2693,uku,"interior, debajo de",0.820992463
+2694,unay,hace mucho tiempo,0.763521296
+2695,unayana,"demorarse, tardarse",0.06521071
+2696,unaylla,hace un momento,0.570193914
+2697,umana,"engñar, embobar",0.069663856
+2698,upallana,callarse,0.234067369
+2699,upayana,"enmudecerse, embobarse",0.541333261
+2700,urmarina,"decaerse, marchitarse",0.93017211
+2701,upyanayana,"tener sed, tener ganas o deseo de beber",0.76546976
+2702,ushu,purina,0.257295917
+2703,usyay,"pacha	verano",0.817147055
+2704,utipana,"poder, ser capaz",0.554610579
+2705,ukta,"rápido, pronto, breve",0.802191987
+2706,uktana,"apurar, acelerar, hacer con rapidez",0.867546545
+2707,uyana,"oir, escuchar, atender",0.434288576
+2708,wakarina,oxidarse,0.051169928
+2709,wakaychina,"guardar, ahorrar, conservar",0.498442254
+2710,wakin,"algún, alguno, alguno",0.676094382
+2711,wakllichina,"violar, hacer daño, deteriorar, dañar",0.016741514
+2712,wampuna,"navegar, nadar, flotar",0.423108432
+2713,wamra,"adolescente, muchacho",0.439177347
+2714,wankuna,"atar, amarrar, liar",0.169120133
+2715,wantuk,floripondio,0.541333261
+2716,wanu,abono,0.349011504
+2717,waranka,mil,0.347548686
+2718,wañurina,"enojarse, morirse de iras",0.166854066
+2719,wawa,"mama	placenta",0.032414568
+2720,wawa,"muyu	feto",0.640787723
+2721,wawa,"tiyana	utero",0.065468274
+2722,wayra,"pacha	otoño",0.86025466
+2723,wayrana,contraer “el mal aire,0.098850181
+2724,wayku,"quebrada, barranco",0.849923388
+2725,wayna,joven,0.571546278
+2726,wichayyana,"subir, ascender",0.909477934
+2727,willak,informante,0.541333261
+2728,willana,"avisar, informar, declarar",0.079925431
+2729,wiki,lagrima,0.541333261
+2730,wiñachik,adoptivo,0.541333261
+2731,wiñachishka,adoptado,0.541333261
+2732,wiñana,"crecer, desarrollarse",0.528330265
+2733,wiñay,siempre,0.804826818
+2734,wipala,bandera,0.672208704
+2735,wishina,coger liquidos o granos,0.433188326
+2736,wiwana,"domesticar, amansar",0.541333261
+2737,yachay,"sabiduría, inteligencia, juicio, razonamiento",0.239492311
+2738,yachachikuy,educación,0.159103787
+2739,yachak,sabio,0.541333261
+2740,yachakuna,"estudiar, aprender",0.340672135
+2741,yachana," 	saber",0.39103484
+2742,yakuyachina,"desleir, disolver, diluir",0.199199218
+2743,yankamanta,"de valde, en vano, sin motivo",0.008866191
+2744,yalli,"demasiado, demás, en exceso",0.351505195
+2745,yapa,"demasiado, mucho, muy",0.642900277
+2746,yanapana,"ayudar, auxilliar, socorrer",0.465649031
+2747,yanapay,"auxilio, cooperación",0.10862799
+2748,yapachina,"ganar, ganara dinero",0.037941568
+2749,yapana,"aumentar, agregar",0.490602796
+2750,yaykuna,entrar,0.618883961
+2751,yupana,"contar, enumerar",0.589721397
+2752,yupaychana,agradecer,0.541333261
+2753,yuyarina,"acordarse, recordar",0.77005374
+2754,yuyay,"pensamiento, idea, memoria",0.412457711
+2755,yuyana,pensar,0.399389822
+2756,yuyaychinkana,perder el conocimiento,0.472621601
+2757,yuyayuk,pensante,0.335992236
+2758,yuyak,adulto pensante,0.497568713

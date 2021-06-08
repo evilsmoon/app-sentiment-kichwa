@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kichwa Sentiment - Home</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.min.css')}}"/>
+
+</head>
+<body class="d-flex h-100 text-center text-white bg-dark">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        {% include "header.html" %}
+
+      <main class="px-3">
+        <div class="avatar">
+            <img height="100px" width='100px' style="border-radius: 50px;" src="{{url_for('static',filename='img/mapa_ec.jpg')}}"/>
+        </div>
+        <p class="lead">
+          Cover is a one-page template for building simple and beautiful home
+          pages. Download, edit the text, and add your own fullscreen background
+          photo to make it your own.
+        </p>
+      </main>
+      <section class='container'>
+        <form action="/analisis" method="POST">
+            <div class="mb-3">
+                <label for="inputText" class='form-label'>Ingrese un parrafo</label>
+                <textarea class="form-control" name='inputText' id="inputText" rows="3" aria-describedby="textHelp"></textarea>
+                <div id="textHelp" class="form-text">Ingrese un parrafo en kichwa</div>
+            </div>
+        <div class="form-group">
+            <button type='submit' class='btn btn-danger'>Submit</button>
+        </div>
+
+        </form>
+      </section>
+
+      {% include "footer.html" %}
+    </div>
+  </body>
+<script type='text/javascript' src="{{url_for('static',filename='js/bootstrap.min.js')}}"></script>
+</html>

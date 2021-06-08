@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kichwa Sentiment - Analisis</title>
+    <link
+      rel="stylesheet"
+      href="{{url_for('static',filename='css/bootstrap.min.css')}}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{url_for('static',filename='css/analisis.css')}}"
+    />
+  </head>
+  <body class="d-flex h-100 text-center text-white bg-dark">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+      {% include "header.html" %}
+      <section class="container">
+        <canvas id="myChart" width=700" height="400"></canvas>
+      </section>
+      <section class="container">
+        <figure class="highcharts-figure">
+            <div id="container"></div>
+            <p class="highcharts-description">
+              Chart with buttons to modify options, showing how options can be changed
+              on the fly. This flexibility allows for more dynamic charts.
+            </p>
+          
+            <button id="plain">Plain</button>
+            <button id="inverted">Inverted</button>
+            <button id="polar">Polar</button>
+      </section>
+
+      {% include "footer.html" %}
+    </div>
+  </body>
+  <script
+    type="text/javascript"
+    src="{{url_for('static',filename='js/bootstrap.min.js')}}"
+  ></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+  <script type="text/javascript">
+        var chartData = {
+        labels : [{% for item in data_json %}
+        "{{item}}",
+        {% endfor %}],
+        datasets : [{
+        label: 'WORDS',
+        fill: true,
+        lineTension: 0.1,
+        backgroundColor: "rgba(75,192,192,0.4)",
+        borderColor: "rgba(75,192,192,1)",
+        borderCapStyle: 'butt',
+        borderDash: [],
+        borderDashOffset: 0.0,
+        borderJoinStyle: 'miter',
+        pointBorderColor: "rgba(75,192,192,1)",
+        pointBackgroundColor: "#fff",
+        pointBorderWidth: 1,
+        pointHoverRadius: 5,
+        pointHoverBackgroundColor: "rgba(75,192,192,1)",
+        pointHoverBorderColor: "rgba(220,220,220,1)",
+        pointHoverBorderWidth: 2,
+        pointRadius: 1,
+        pointHitRadius: 10,
+        data : [{% for item in data_num %}
+        {{item}},
+        {% endfor %}],
+        spanGaps: false
+        }]
+        }
+
+        // get chart canvas
+        var ctx = document.getElementById("myChart").getContext("2d");
+
+        // create the chart using the chart canvas
+        var myChart = new Chart(ctx, {
+        type: 'bar',
+        data: chartData,
+        });
+
+        const chart = Highcharts.chart('container', {
+      title: {
+        text: 'Chart.update'
+      },
+      subtitle: {
+        text: 'Plain'
+      },
+      xAxis: {
+        categories: [{% for item in data_json %}
+        "{{item}}",
+        {% endfor %}]
+      },
+      series: [{
+        type: 'column',
+        colorByPoint: true,
+        data: [{% for item in data_num %}
+        {{item}},
+        {% endfor %}],
+        showInLegend: false
+      }]
+    });
+
+    document.getElementById('plain').addEventListener('click', () => {
+      chart.update({
+        chart: {
+          inverted: false,
+          polar: false
+        },
+        subtitle: {
+          text: 'Plain'
+        }
+      });
+    });
+
+    document.getElementById('inverted').addEventListener('click', () => {
+      chart.update({
+        chart: {
+          inverted: true,
+          polar: false
+        },
+        subtitle: {
+          text: 'Inverted'
+        }
+      });
+    });
+
+    document.getElementById('polar').addEventListener('click', () => {
+      chart.update({
+        chart: {
+          inverted: false,
+          polar: true
+        },
+        subtitle: {
+          text: 'Polar'
+        }
+      });
+    });
+  </script>
+</html>
