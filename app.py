@@ -107,7 +107,7 @@ def analisis_post():
               if j == i[0]:
                 data_names.append(j[0])
                 data_values.append(j[1])
-                data_values2.append(j[1]*i[1])
+                data_values2.append(i[1])
 
           # data_final = list(zip(data_names,data_values,data_values2))
           return render_template('analisis.html', 
