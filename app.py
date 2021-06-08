@@ -35,7 +35,33 @@ def remove_stopwords(list):
     elif i =='chay':
       data2.remove(i)
   return data2
+def compara(lista,dataset):
+  s=[]
+  cont=0
+  r=0
+  data1=[]
+  data2=[]
+  for i  in (dataset['Kichwa']):
+    # print(i)
+    r +=1
+    for j in lista:
+      # print(j)
+      if i == j:
+        # data2.append(dataset[r:r+1])
+        # data1.append(dataset.iloc[r,0])
+        # data1.append(dataset.iloc[r,1])
+        data1.append(dataset.iloc[r-1,3])
+        data2.append(dataset.iloc[r-1,1])
 
+        cont +=1
+        s.append(i)
+  # print(len(data1))
+  w=0
+  for q in data1:
+    w=q+w
+  print('Promedio de palabras ',w/len(data1))
+
+  return data1,data2
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -55,10 +81,15 @@ def analisis_post():
         # di2 = list(data_F_2)
         data_json  = list(data_F_1)
         data_num =   list(data_F_2) 
+        numero , label =compara(data_F_1,dataset)
+        print(label)
+        print(numero)
+        
 
-    return render_template('analisis.html', data_num=data_num,data_json=data_json)
+
+    return render_template('analisis.html', data_num=data_num,data_json=data_json,label=label,numero=numero)
 
 
 
 
-app.run(host='0.0.0.0',port='8080')
+app.run(debug=True)

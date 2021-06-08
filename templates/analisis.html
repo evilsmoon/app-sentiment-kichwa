@@ -21,14 +21,19 @@
         <figure class="highcharts-figure">
             <div id="container"></div>
             <p class="highcharts-description">
-              Chart with buttons to modify options, showing how options can be changed
-              on the fly. This flexibility allows for more dynamic charts.
+                Chart with buttons to modify options, showing how options can be changed
+                on the fly. This flexibility allows for more dynamic charts.
             </p>
-          
-            <button id="plain">Plain</button>
-            <button id="inverted">Inverted</button>
-            <button id="polar">Polar</button>
-      </section>
+        </figure>
+        
+        <figure class="highcharts-figure">
+            <div id="container_2"></div>
+            <p class="highcharts-description">
+              Chart showing a combination of a column and a line chart, using multiple
+              y-axes. Using multiple axes allows for data within different ranges to
+              be visualized together.
+            </p>
+          </figure>
 
       {% include "footer.html" %}
     </div>
@@ -67,40 +72,90 @@
       }]
     });
 
-    document.getElementById('plain').addEventListener('click', () => {
-      chart.update({
-        chart: {
-          inverted: false,
-          polar: false
-        },
-        subtitle: {
-          text: 'Plain'
-        }
-      });
-    });
+Highcharts.chart('container_2', {
+  chart: {
+    zoomType: 'xy'
+  },
+  title: {
+    text: 'Average Monthly Temperature and Rainfall in Tokyo'
+  },
+  subtitle: {
+    text: 'Source: WorldClimate.com'
+  },
+  xAxis: [{
+    categories: [{% for item in label %}
+         "{{item}}",
+        {% endfor %}],
+    crosshair: true
+  }],
+  yAxis: [{ // Primary yAxis
+    labels: {
+      format: '{value}%',
+      style: {
+        color: Highcharts.getOptions().colors[1]
+      }
+    },
+    title: {
+      text: 'Temperature',
+      style: {
+        color: Highcharts.getOptions().colors[1]
+      },
 
-    document.getElementById('inverted').addEventListener('click', () => {
-      chart.update({
-        chart: {
-          inverted: true,
-          polar: false
-        },
-        subtitle: {
-          text: 'Inverted'
-        }
-      });
-    });
+    }
+  }, { // Secondary yAxis
+    title: {
+      text: 'Words',
+      style: {
+        color: Highcharts.getOptions().colors[0]
+      }
+    },
+    labels: {
+      format: '{value}%',
+      style: {
+        color: Highcharts.getOptions().colors[0]
+      }
+    },
+    opposite: true
+  }],
+  tooltip: {
+    shared: true
+  },
+  legend: {
+    layout: 'vertical',
+    align: 'left',
+    x: 120,
+    verticalAlign: 'top',
+    y: 100,
+    floating: true,
+    backgroundColor:
+      Highcharts.defaultOptions.legend.backgroundColor || // theme
+      'rgba(255,255,255,0.25)'
+  },
+  series: [{
+    name: 'Words',
+    type: 'column',
+    yAxis: 1,
+    data: [{% for item in numero %}
+        {{item}},
+        {% endfor %}],
+    tooltip: {
+      valueSuffix: '%'
+    }
 
-    document.getElementById('polar').addEventListener('click', () => {
-      chart.update({
-        chart: {
-          inverted: false,
-          polar: true
-        },
-        subtitle: {
-          text: 'Polar'
-        }
-      });
-    });
+  }, {
+    name: 'Porcentaje',
+    type: 'spline',
+    data: [{% for item in numero %}
+        {{item}},
+        {% endfor %}],
+    tooltip: {
+      valueSuffix: '%'
+    }
+  }]
+});
+
+
+
+    
   </script>
 </html>
