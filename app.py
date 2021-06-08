@@ -60,4 +60,4 @@ def analisis_post():
 
 
 
-app.run(debug=True)
+app.run()
